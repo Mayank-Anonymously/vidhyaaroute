@@ -40,7 +40,7 @@ const Footer = () => {
 									className='me-3'
 								/>
 								<span>+91 92118 71889</span>
-                <br/>
+								<br />
 								<span>+91 89209 49831</span>
 							</div>
 							<div className='d-flex align-items-center mb-2'>
@@ -241,7 +241,7 @@ const Footer = () => {
 								href='#'
 								className='text-decoration-none'
 								style={{ color: '#5E789C' }}>
-								immigratie
+								Vidhyaaroute
 							</a>{' '}
 							- 2024
 						</p>
