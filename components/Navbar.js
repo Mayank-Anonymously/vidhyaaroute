@@ -29,7 +29,7 @@ const Navbar = () => {
 				<div className='left-info'>
 					<div className='info-item'>
 						<HiOutlineMail />
-						<span className='info-text'>info@yourmail.com</span>
+						<span className='info-text'>info@vidhyaroute.com</span>
 					</div>
 					<div className='info-item'>
 						<GoLocation />
@@ -66,7 +66,7 @@ const Navbar = () => {
 						<BsSearch />
 					</div>
 
-					<button className='appointment-btn'>Appointment</button>
+					<button className='appointment-btn'>Couselling</button>
 				</div>
 			</div>
 
