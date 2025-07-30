@@ -243,7 +243,7 @@ const Footer = () => {
 								style={{ color: '#5E789C' }}>
 								Vidhyaaroute
 							</a>{' '}
-							- 2024
+							- 2025
 						</p>
 					</div>
 				</div>
