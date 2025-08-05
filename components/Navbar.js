@@ -11,6 +11,50 @@ import AdmissionModal from './AdmissionModal';
 const Navbar = () => {
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
 	const [showModal, setShowModal] = useState(false);
+	const [isCountriesOpen, setIsCountriesOpen] = useState(false);
+
+	// Country data with flag emojis
+	const countries = [
+		{ code: 'uk', name: 'UK', flag: '🇬🇧', path: '/countries/uk' },
+		{ code: 'usa', name: 'USA', flag: '🇺🇸', path: '/countries/usa' },
+		{
+			code: 'ireland',
+			name: 'Ireland',
+			flag: '🇮🇪',
+			path: '/countries/ireland',
+		},
+		{ code: 'canada', name: 'Canada', flag: '🇨🇦', path: '/countries/canada' },
+		{
+			code: 'germany',
+			name: 'Germany',
+			flag: '🇩🇪',
+			path: '/countries/germany',
+		},
+		{ code: 'dubai', name: 'Dubai', flag: '🇦🇪', path: '/countries/dubai' },
+		{ code: 'france', name: 'France', flag: '🇫🇷', path: '/countries/france' },
+		{ code: 'europe', name: 'Europe', flag: '🇪🇺', path: '/countries/europe' },
+		{ code: 'italy', name: 'Italy', flag: '🇮🇹', path: '/countries/italy' },
+		{
+			code: 'australia',
+			name: 'Australia',
+			flag: '🇦🇺',
+			path: '/countries/australia',
+		},
+		{
+			code: 'newzealand',
+			name: 'New Zealand',
+			flag: '🇳🇿',
+			path: '/countries/newzealand',
+		},
+		{
+			code: 'georgia',
+			name: 'Georgia',
+			flag: '🇬🇪',
+			path: '/countries/georgia',
+		},
+		{ code: 'malta', name: 'Malta', flag: '🇲🇹', path: '/countries/malta' },
+		{ code: 'japan', name: 'Japan', flag: '🇯🇵', path: '/countries/japan' },
+	];
 
 	// Toggle the mobile menu open/close
 	const toggleMenu = () => {
@@ -29,12 +73,12 @@ const Navbar = () => {
 				<div className='left-info'>
 					<div className='info-item'>
 						<HiOutlineMail />
-						<span className='info-text'>info@vidhyaroute.com</span>
+						<span className='info-text'>info@yourmail.com</span>
 					</div>
 					<div className='info-item'>
 						<GoLocation />
-
 						<span className='info-text'>
+							{' '}
 							UG-49 Charmwood plaza, Faridabad 121009
 						</span>
 					</div>
@@ -65,19 +109,19 @@ const Navbar = () => {
 						<BsSearch />
 					</div>
 
-					<button className='appointment-btn'>Couselling</button>
+					<button className='appointment-btn'>Appointment</button>
 				</div>
 			</div>
 
 			{/* ======= Bottom Navbar ======= */}
 			<div className='navbar-bottom'>
 				{/* Centered logo visible on larger screens */}
-				<div className='nav-empty  justify-content-center'>
+				<div className='nav-empty justify-content-center'>
 					<Link href='/'>
 						<img
 							src='/images/logo.png'
 							alt='Vidhyaarohee'
-						style={{ width: 130, height: 130 }}
+							style={{ width: 80, height: 80 }}
 							className='mt-2 mobile-logo'
 						/>
 					</Link>
@@ -136,6 +180,24 @@ const Navbar = () => {
 							onClick={closeMenu}>
 							Contact Us
 						</Link>
+						{/* Enhanced Countries Dropdown */}
+						<div className='nav-link dropdown-container countries-dropdown'>
+							<span>Countries</span>
+							<div className='dropdown-menu countries-grid'>
+								<div className='countries-container'>
+									{countries.map((country) => (
+										<Link
+											key={country.code}
+											href={country.path}
+											className='country-item'
+											onClick={closeMenu}>
+											<span className='country-flag'>{country.flag}</span>
+											<span className='country-name'>{country.name}</span>
+										</Link>
+									))}
+								</div>
+							</div>
+						</div>
 					</div>
 
 					{/* ======= Mobile Hamburger Icon ======= */}

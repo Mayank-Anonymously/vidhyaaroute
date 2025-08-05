@@ -108,6 +108,146 @@ a:hover {
 
 /**************************  Navbar  **********************************/
 
+
+/* // country Dropdown Navbar  */
+
+.dropdown-container {
+  position: relative;
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: white;
+  min-width: 180px;
+  box-shadow: 0px 8px 25px rgba(0,0,0,0.15);
+  display: none;
+  z-index: 1000;
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid #e5e7eb;
+}
+
+.dropdown-container:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-item {
+  display: block;
+  padding: 12px 20px;
+  color: #374151;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.dropdown-item:hover {
+  background-color: #f9fafb;
+  color: #2563eb;
+}
+
+/* Enhanced Countries Dropdown Styles */
+.countries-dropdown .dropdown-menu {
+  min-width: 480px;
+  max-width: 600px;
+  padding: 20px;
+}
+
+.countries-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.country-item {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  text-decoration: none;
+  color: #374151;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  font-weight: 500;
+  font-size: 14px;
+  border: 1px solid transparent;
+}
+
+.country-item:hover {
+  background-color: #f0f9ff;
+  border-color: #bfdbfe;
+  color: #1d4ed8;
+  transform: translateY(-1px);
+}
+
+.country-flag {
+  font-size: 25px;
+  margin-right: 12px;
+  width: 28px;
+  display: flex;
+  justify-content: center;
+}
+
+.country-name {
+  flex: 1;
+  white-space: nowrap;
+}
+
+/* Custom scrollbar for countries container */
+.countries-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.countries-container::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 3px;
+}
+
+.countries-container::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+
+.countries-container::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+  .countries-dropdown .dropdown-menu {
+    min-width: 300px;
+    max-width: 90vw;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .countries-container {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 6px;
+  }
+
+  .country-item {
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+
+  .country-flag {
+    font-size: 18px;
+    margin-right: 8px;
+    width: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .countries-container {
+    grid-template-columns: 1fr;
+  }
+}
+/* // country Dropdown Navbar  */
+
 .navbar-top {
   background-color: var(--primary-color);
   font-size: 14px;

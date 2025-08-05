@@ -39,26 +39,21 @@ const Footer = () => {
 									style={{ color: '#5E789C' }}
 									className='me-3'
 								/>
-								<span>+91 92118 71889</span>
-								<br />
-								<span>+91 89209 49831</span>
+								<span>+88 12345 6987 231</span>
 							</div>
 							<div className='d-flex align-items-center mb-2'>
 								<FaEnvelope
 									style={{ color: '#5E789C' }}
 									className='me-3'
 								/>
-								<span>info@vidhyaroute.com</span>
+								<span>info@example.com</span>
 							</div>
 							<div className='d-flex align-items-center mb-3'>
 								<FaMapMarkerAlt
 									style={{ color: '#5E789C' }}
 									className='me-3'
 								/>
-								<span>
-									UG-49 charmwood plaza eros garden colony surajkund road
-									faridabad haryana 121009
-								</span>
+								<span>380 St Kilda Road, Melbourne</span>
 							</div>
 						</div>
 
@@ -89,6 +84,7 @@ const Footer = () => {
 							</a>
 						</div>
 					</div>
+
 					{/* Column 2 - Explore */}
 					<div className='col-lg-3 col-md-6 mb-4'>
 						<h5 className='text-white mb-4 position-relative'>
@@ -102,41 +98,42 @@ const Footer = () => {
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Blog
+									Employment & Jobs
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									About Us
+									Government & Elections
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Contact Us
+									Real Estate & Buildings
 								</a>
 							</li>
-							{/* <li className='mb-2'>
+							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
 									Health & Medical
 								</a>
-							</li> */}
-							{/* <li className='mb-2'>
+							</li>
+							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
 									Transport & Traffic
 								</a>
-							</li> */}
+							</li>
 						</ul>
 					</div>
+
 					{/* Column 3 - Useful Links */}
-					{/* <div className='col-lg-3 col-md-6 mb-4'>
+					<div className='col-lg-3 col-md-6 mb-4'>
 						<h5 className='text-white mb-4 position-relative'>
 							Useful Links
 							<div
@@ -180,7 +177,8 @@ const Footer = () => {
 								</a>
 							</li>
 						</ul>
-					</div> */}
+					</div>
+
 					{/* Column 4 - More Links */}
 					<div className='col-lg-3 col-md-6 mb-4'>
 						<h5 className='text-white mb-4 position-relative'>
@@ -223,6 +221,49 @@ const Footer = () => {
 									href='#'
 									className='text-white text-decoration-none'>
 									Germany
+								</a>
+							</li>
+						</ul>
+						<h5 className='text-white mb-4 position-relative'>
+							Top Universities
+							<div
+								className='border-bottom border-primary position-absolute'
+								style={{ width: 50, height: 2, bottom: -10, left: 0 }}></div>
+						</h5>
+						<ul className='list-unstyled'>
+							<li className='mb-2'>
+								<a
+									href='#'
+									className='text-white text-decoration-none'>
+									University of Liverpool
+								</a>
+							</li>
+							<li className='mb-2'>
+								<a
+									href='#'
+									className='text-white text-decoration-none'>
+									Harvard University
+								</a>
+							</li>
+							<li className='mb-2'>
+								<a
+									href='#'
+									className='text-white text-decoration-none'>
+									Greenwich University
+								</a>
+							</li>
+							<li className='mb-2'>
+								<a
+									href='#'
+									className='text-white text-decoration-none'>
+									Zurich University
+								</a>
+							</li>
+							<li className='mb-2'>
+								<a
+									href='#'
+									className='text-white text-decoration-none'>
+									Boston University
 								</a>
 							</li>
 						</ul>
