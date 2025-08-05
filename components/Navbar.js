@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { useState } from 'react';
-import { FaFacebookF, FaInstagram, FaTwitter } from 'react-icons/fa';
+import { FaFacebookF, FaInstagram, FaLinkedinIn } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { GoLocation } from 'react-icons/go';
 import { PiClockLight } from 'react-icons/pi';
@@ -73,7 +73,7 @@ const Navbar = () => {
 				<div className='left-info'>
 					<div className='info-item'>
 						<HiOutlineMail />
-						<span className='info-text'>info@yourmail.com</span>
+						<span className='info-text'>info@vidhyaroute.com</span>
 					</div>
 					<div className='info-item'>
 						<GoLocation />
@@ -90,14 +90,14 @@ const Navbar = () => {
 
 				<div className='right-info'>
 					<div className='social-icons'>
-						<a href='#'>
+						<a href='https://www.facebook.com/share/1Faw3sy54h/?mibextid=wwXIfr'>
 							<FaFacebookF />
 						</a>
-						<a href='#'>
+						<a href='https://www.instagram.com/routevidhy?igsh=MTV4cnE5d2xydDk0aQ=='>
 							<FaInstagram />
 						</a>
-						<a href='#'>
-							<FaTwitter />
+						<a href='https://www.linkedin.com/company/vidhya-route/'>
+							<FaLinkedinIn />
 						</a>
 					</div>
 
@@ -116,15 +116,19 @@ const Navbar = () => {
 			{/* ======= Bottom Navbar ======= */}
 			<div className='navbar-bottom'>
 				{/* Centered logo visible on larger screens */}
-				<div className='nav-empty justify-content-center'>
+				<div className='nav-empty justify-content-center logo-background'>
 					<Link href='/'>
 						<img
 							src='/images/logo.png'
 							alt='Vidhyaarohee'
-							style={{ width: 80, height: 80 }}
+							style={{ width: 120, height: 120 }}
 							className='mt-2 mobile-logo'
 						/>
 					</Link>
+					<p style={{ background: 'none', fontWeight: 'bold', color: 'white' }}>
+						Vidhyaroute <br />
+						Your Bridge to Global Education
+					</p>
 				</div>
 
 				<div className='navbar-bottom-wrapper'>
