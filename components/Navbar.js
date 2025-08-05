@@ -168,12 +168,7 @@ const Navbar = () => {
 							onClick={closeMenu}>
 							Our Services
 						</Link>
-						<Link
-							href='/countries'
-							className='nav-link'
-							onClick={closeMenu}>
-							Countries
-						</Link>
+
 						<Link
 							href='/contact'
 							className='nav-link'
