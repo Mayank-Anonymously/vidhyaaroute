@@ -89,7 +89,6 @@ const Footer = () => {
 							</a>
 						</div>
 					</div>
-
 					{/* Column 2 - Explore */}
 					<div className='col-lg-3 col-md-6 mb-4'>
 						<h5 className='text-white mb-4 position-relative'>
@@ -103,42 +102,41 @@ const Footer = () => {
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Employment & Jobs
+									Blog
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Government & Elections
+									About Us
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Real Estate & Buildings
+									Contact Us
 								</a>
 							</li>
-							<li className='mb-2'>
+							{/* <li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
 									Health & Medical
 								</a>
-							</li>
-							<li className='mb-2'>
+							</li> */}
+							{/* <li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
 									Transport & Traffic
 								</a>
-							</li>
+							</li> */}
 						</ul>
 					</div>
-
 					{/* Column 3 - Useful Links */}
-					<div className='col-lg-3 col-md-6 mb-4'>
+					{/* <div className='col-lg-3 col-md-6 mb-4'>
 						<h5 className='text-white mb-4 position-relative'>
 							Useful Links
 							<div
@@ -182,8 +180,7 @@ const Footer = () => {
 								</a>
 							</li>
 						</ul>
-					</div>
-
+					</div> */}
 					{/* Column 4 - More Links */}
 					<div className='col-lg-3 col-md-6 mb-4'>
 						<h5 className='text-white mb-4 position-relative'>

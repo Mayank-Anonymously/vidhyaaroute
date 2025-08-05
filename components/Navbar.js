@@ -35,13 +35,12 @@ const Navbar = () => {
 						<GoLocation />
 
 						<span className='info-text'>
-							UG-49 charmwood plaza eros garden colony surajkund road faridabad
-							haryana 121009
+							UG-49 Charmwood plaza, Faridabad 121009
 						</span>
 					</div>
 					<div className='info-item'>
 						<PiClockLight />
-						<span className='info-text'>Mon - Sat: 9.00 to 18.00</span>
+						<span className='info-text'>Mon - Sat: 9:00 - 18:00</span>
 					</div>
 				</div>
 
@@ -78,7 +77,7 @@ const Navbar = () => {
 						<img
 							src='/images/logo.png'
 							alt='Vidhyaarohee'
-							style={{ width: 80, height: 80 }}
+						style={{ width: 130, height: 130 }}
 							className='mt-2 mobile-logo'
 						/>
 					</Link>
@@ -126,22 +125,10 @@ const Navbar = () => {
 							Our Services
 						</Link>
 						<Link
-							href='/oetcoaching'
-							className='nav-link'
-							onClick={closeMenu}>
-							Coaching
-						</Link>
-						<Link
 							href='/countries'
 							className='nav-link'
 							onClick={closeMenu}>
 							Countries
-						</Link>
-						<Link
-							href='/teamdetails'
-							className='nav-link'
-							onClick={closeMenu}>
-							Team
 						</Link>
 						<Link
 							href='/contact'
