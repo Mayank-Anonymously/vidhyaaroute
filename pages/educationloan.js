@@ -63,7 +63,7 @@ const EducationLoan = () => {
               {/* Hero Image */}
               <div className="mb-5">
                 <div className="position-relative rounded overflow-hidden shadow-lg">
-                <img
+                  <img
                     src="/images/business.jpg"
                     alt="Business Meeting"
                     className="w-100 h-auto"
@@ -193,10 +193,12 @@ const EducationLoan = () => {
                     </p>
                   </div>
                   <div className="col-lg-4 text-lg-end">
-                    <button className="btn btn-light btn-lg">
-                      <Calendar className="me-2" size={20} />
-                      Book Loan Assistance
-                    </button>
+                    <a href="tel:+88123456987231">
+                      <button className="btn btn-light btn-lg">
+                        <Calendar className="me-2" size={20} />
+                        Book Loan Assistance
+                      </button>
+                    </a>
                   </div>
                 </div>
               </div>

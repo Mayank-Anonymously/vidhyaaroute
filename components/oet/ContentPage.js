@@ -148,7 +148,7 @@ const ContentPage = () => {
         </div>
 
         {/* Call to Action */}
-        <div className="text-white p-4 rounded mb-4" style={{background:"#162799"}}>
+        <div className="text-white p-4 rounded mb-4" style={{ background: "#162799" }}>
           <div className="row align-items-center">
             <div className="col-lg-8">
               <h3 className="mb-2">
@@ -160,10 +160,12 @@ const ContentPage = () => {
               </p>
             </div>
             <div className="col-lg-4 text-lg-end">
-              <button className="btn btn-light btn-lg">
-                <Calendar className="me-2" size={20} />
-                Schedule Onboarding
-              </button>
+              <a href="tel:+88123456987231">
+                <button className="btn btn-light btn-lg">
+                  <Calendar className="me-2" size={20} />
+                  Schedule Onboarding
+                </button>
+              </a>
             </div>
           </div>
         </div>

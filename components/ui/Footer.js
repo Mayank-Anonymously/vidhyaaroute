@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaPhone, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
+import { FaPhone, FaEnvelope, FaMapMarkerAlt, FaYoutube } from 'react-icons/fa';
 import {
 	FaFacebookF,
 	FaInstagram,
@@ -48,13 +48,13 @@ const Footer = () => {
 								/>
 								<span>info@example.com</span>
 							</div>
-							<div className='d-flex align-items-center mb-3'>
+							{/* <div className='d-flex align-items-center mb-3'>
 								<FaMapMarkerAlt
 									style={{ color: '#5E789C' }}
 									className='me-3'
 								/>
 								<span>380 St Kilda Road, Melbourne</span>
-							</div>
+							</div> */}
 						</div>
 
 						<div className='d-flex gap-3'>
@@ -74,14 +74,9 @@ const Footer = () => {
 								href='#'
 								className='text-white rounded-circle p-2 d-flex align-items-center justify-content-center'
 								style={{ width: 40, height: 40, backgroundColor: '#5E789C' }}>
-								<FaTwitter />
+								<FaYoutube />
 							</a>
-							<a
-								href='#'
-								className='text-white rounded-circle p-2 d-flex align-items-center justify-content-center'
-								style={{ width: 40, height: 40, backgroundColor: '#5E789C' }}>
-								<FaDribbble />
-							</a>
+							
 						</div>
 					</div>
 

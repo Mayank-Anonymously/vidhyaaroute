@@ -39,9 +39,9 @@ const about = () => {
 			<Navbar />
 			<BreadcrumbBanner title='About Us' />
 
-			<ExpertGuidanceSection />
+			{/* <ExpertGuidanceSection /> */}
 			<div
-				className='container position-relative p-4 '
+				className='container position-relative mt-5 p-4 '
 				style={{ backgroundColor: '#032B66', borderRadius: '10px' }}>
 				<img
 					className='position-absolute top-0 start-0'

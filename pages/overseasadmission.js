@@ -195,10 +195,12 @@ const OverseasAdmission = () => {
                     </p>
                   </div>
                   <div className="col-lg-4 text-lg-end">
-                    <button className="btn btn-light btn-lg">
-                      <Calendar className="me-2" size={20} />
-                      Book Visa Consultation
-                    </button>
+                    <a href="tel:+88123456987231">
+                      <button className="btn btn-light btn-lg">
+                        <Calendar className="me-2" size={20} />
+                        Book Visa Consultation
+                      </button>
+                    </a>
                   </div>
                 </div>
               </div>

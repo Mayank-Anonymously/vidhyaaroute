@@ -10,7 +10,7 @@ const Timeline = () => {
 					<li>
 						Research & Shortlist Universities: Based on country, course, budget,
 						and ranking.
-					</li>{' '}
+					</li>
 					<li>
 						Prepare Application Documents: Includes academic transcripts, SOP,
 						LORs, resume, and test scores.
@@ -24,9 +24,7 @@ const Timeline = () => {
 			content: (
 				<ul>
 					<li>Accept Offer & Pay Initial Deposit.</li>
-
 					<li>Get Admission Letter / I-20 / CAS.</li>
-
 					<li>Required for visa application.</li>
 				</ul>
 			),
@@ -36,7 +34,6 @@ const Timeline = () => {
 			content: (
 				<ul>
 					<li>Choose loan provider (Banks, NBFCs, or international).</li>
-
 					<li>
 						Submit Admission Letter, Fee Structure, KYC, Income & Collateral
 						docs.
@@ -63,11 +60,8 @@ const Timeline = () => {
 			content: (
 				<ul>
 					<li>Pre-departure briefing</li>
-
 					<li>Accommodation & Insurance</li>
-
 					<li>Forex and Travel Insurance</li>
-
 					<li>University registration & orientation</li>
 				</ul>
 			),
@@ -109,15 +103,11 @@ const Timeline = () => {
 					{/* Icons and Step Numbers */}
 					<div className='timeline-steps'>
 						{[1, 2, 3, 4, 5].map((step, index) => (
-							<div
-								key={index}
-								className='timeline-step'>
-								{/* Icon */}
+							<div key={index} className='timeline-step'>
 								<img
 									src={`/images/icons/${step}.png`}
 									alt={`Step ${step}`}
 								/>
-								{/* Step Number Circle */}
 								<div className='timeline-step-number'>{step}</div>
 							</div>
 						))}
@@ -127,11 +117,9 @@ const Timeline = () => {
 				{/* Cards Below Timeline */}
 				<div className='timeline-cards-container pt-4'>
 					{timelineData.map((item, index) => (
-						<div
-							key={index}
-							className='timeline-card'>
+						<div key={index} className='timeline-card'>
 							<h6 className='text-center'>{item.title}</h6>
-							<p className='text-muted mt-2'>{item.content}</p>
+							<div className='text-muted mt-2'>{item.content}</div>
 						</div>
 					))}
 				</div>

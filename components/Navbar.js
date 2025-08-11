@@ -109,7 +109,10 @@ const Navbar = () => {
 						<BsSearch />
 					</div>
 
-					<button className='appointment-btn'>Appointment</button>
+					<a href="tel:+88123456987231">
+						<button className="appointment-btn">Call Now</button>
+					</a>
+
 				</div>
 			</div>
 
@@ -126,7 +129,7 @@ const Navbar = () => {
 						/>
 					</Link>
 					<p style={{ background: 'none', fontWeight: 'bold', color: 'white' }}>
-						Vidhyaroute <br />
+						Vidhyaaroute <br />
 						Your Bridge to Global Education
 					</p>
 				</div>
@@ -167,7 +170,7 @@ const Navbar = () => {
 							About
 						</Link>
 						<Link
-							href='/businessvisa'
+							href='/studentvisa'
 							className='nav-link'
 							onClick={closeMenu}>
 							Our Services

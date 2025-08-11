@@ -55,7 +55,7 @@ const VisaCategoriesSection = () => {
     >
       <div className="container position-relative z-1">
         <SectionHeading
-          label="Visa Categories"
+          label="Our Services"
           title="Simplifying Your Path to Global Education"
         />
 

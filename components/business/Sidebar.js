@@ -26,7 +26,7 @@ const Sidebar = () => {
   return (
     <div className="col-lg-3 col-md-4 p-0">
       {/* Section 1: Visa Categories */}
-      <div className="text-white p-3 " style={{ backgroundColor: "#f5f5f5" }}>
+      {/* <div className="text-white p-3 " style={{ backgroundColor: "#f5f5f5" }}>
         <div className="bg-blue-dark p-4">
           <ul className="list-unstyled">
             {visaCategories.map((category, index) => (
@@ -39,7 +39,6 @@ const Sidebar = () => {
                       : "text-light hover-bg-secondary"
                   }`}
                 >
-                  {/* {category.icon} */}
                   {category.name}
                   <ExternalLink className="ms-auto" size={16} />
                 </a>
@@ -47,7 +46,7 @@ const Sidebar = () => {
             ))}
           </ul>
         </div>
-      </div>
+      </div> */}
 
       {/* Section 2: Travel Pass */}
       <div className="bg-blue-dark text-white p-3 mt-3">
