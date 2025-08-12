@@ -399,6 +399,7 @@ a:hover {
   display: flex;
   justify-content: center;
   flex: 1;
+  gap: 20px;
 }
 
 .navbar-bottom .nav-link {
