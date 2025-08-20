@@ -32,8 +32,8 @@ const Team = () => {
     >
       <div className="container">
         <SectionHeading
-          label="Visa Categories"
-          title="Simplifying Your Path to Global Education"
+          label="Our Team"
+          title="Meet our amazing Team"
         />
         <div className="row justify-content-center">
           {teamMembers.map((member, index) => (

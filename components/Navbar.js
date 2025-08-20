@@ -12,6 +12,7 @@ const Navbar = () => {
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
 	const [showModal, setShowModal] = useState(false);
 	const [isCountriesOpen, setIsCountriesOpen] = useState(false);
+	const [isServicesOpen, setIsServicesOpen] = useState(false);
 
 	// Country data with flag emojis
 	const countries = [
@@ -54,6 +55,13 @@ const Navbar = () => {
 		},
 		{ code: 'malta', name: 'Malta', flag: '🇲🇹', path: '/countries/malta' },
 		{ code: 'japan', name: 'Japan', flag: '🇯🇵', path: '/countries/japan' },
+	];
+
+	// Services data
+	const services = [
+		{ name: 'Student Visa', path: '/studentvisa' },
+		{ name: 'Business Visa', path: '/businessvisa' },
+		{ name: 'OET Coaching', path: '/oetcoaching' },
 	];
 
 	// Toggle the mobile menu open/close
@@ -169,12 +177,22 @@ const Navbar = () => {
 							onClick={closeMenu}>
 							About
 						</Link>
-						<Link
-							href='/studentvisa'
-							className='nav-link'
-							onClick={closeMenu}>
-							Our Services
-						</Link>
+
+						{/* Services Dropdown */}
+						<div className='nav-link dropdown-container services-dropdown'>
+							<span>Our Services</span>
+							<div className='dropdown-menu'>
+								{services.map((service, index) => (
+									<Link
+										key={index}
+										href={service.path}
+										className='dropdown-item'
+										onClick={closeMenu}>
+										{service.name}
+									</Link>
+								))}
+							</div>
+						</div>
 
 						<Link
 							href='/contact'
@@ -182,7 +200,8 @@ const Navbar = () => {
 							onClick={closeMenu}>
 							Contact Us
 						</Link>
-						{/* Enhanced Countries Dropdown */}
+
+						{/* Countries Dropdown */}
 						<div className='nav-link dropdown-container countries-dropdown'>
 							<span>Countries</span>
 							<div className='dropdown-menu countries-grid'>

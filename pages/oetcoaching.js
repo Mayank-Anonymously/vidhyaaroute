@@ -12,7 +12,7 @@ const OETCoaching = () => {
       <BreadcrumbBanner title="OET Coaching" />
       <div className="container" style={{ marginTop: "100px" }}>
         <div className="row">
-          <Sidebar />
+          {/* <Sidebar /> */}
           <ContentPage />
         </div>
        

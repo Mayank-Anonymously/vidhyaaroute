@@ -38,6 +38,7 @@ const about = () => {
 		<>
 			<Navbar />
 			<BreadcrumbBanner title='About Us' />
+			<Team/>
 
 			{/* <ExpertGuidanceSection /> */}
 			<div
@@ -78,7 +79,6 @@ const about = () => {
 					</div>
 				</div>
 			</div>
-
 			<CountrySection />
 			<ApplyVisa />
 			<div style={{ marginTop: '100px' }}>

@@ -32,7 +32,7 @@ const ContentPage = () => {
   ];
 
   return (
-    <div className="col-lg-9 col-md-8">
+    <div className="col-lg-12 col-md-12">
       <div className="p-4">
         {/* Header Section */}
         <div className="mb-5">

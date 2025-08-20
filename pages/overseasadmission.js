@@ -46,8 +46,8 @@ const OverseasAdmission = () => {
       <BreadcrumbBanner title="Overseas Admission" />
       <div className="container" style={{ marginTop: "100px" }}>
         <div className="row">
-          <Sidebar />
-          <div className="col-lg-9 col-md-8">
+          {/* <Sidebar /> */}
+          <div className="col-lg-12 col-md-12">
             <div className="p-4">
               {/* Header Section */}
               <div className="mb-5">
