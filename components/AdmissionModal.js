@@ -51,7 +51,7 @@ const AdmissionModal = ({ isOpen, onClose }) => {
 		try {
 			// ✅ API request to your backend
 			const response = await axios.post(
-				'https://vidhya-backend.vercel.app/api/v1/query',
+				'https://vidhya-backend.vercel.app/api/v1/query/raise-query',
 				form
 			);
 

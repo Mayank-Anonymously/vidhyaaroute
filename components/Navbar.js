@@ -117,10 +117,9 @@ const Navbar = () => {
 						<BsSearch />
 					</div>
 
-					<a href="tel:+88123456987231">
-						<button className="appointment-btn">Call Now</button>
+					<a href='tel:+88123456987231'>
+						<button className='appointment-btn'>Call Now</button>
 					</a>
-
 				</div>
 			</div>
 
@@ -136,10 +135,28 @@ const Navbar = () => {
 							className='mt-2 mobile-logo'
 						/>
 					</Link>
-					<p style={{ background: 'none', fontWeight: 'bold', color: 'white' }}>
-						Vidhyaaroute <br />
-						Your Bridge to Global Education
-					</p>
+					<div>
+						<p
+							style={{
+								background: 'none',
+								fontWeight: 'bold',
+								color: 'white',
+								marginBottom: -20,
+								fontSize: 30,
+							}}>
+							Vidhyaaroute
+						</p>
+						<p
+							style={{
+								background: 'none',
+								color: 'white',
+								margin: 0,
+								fontSize: 13,
+							}}>
+							<br />
+							Your Bridge to Global Education
+						</p>
+					</div>
 				</div>
 
 				<div className='navbar-bottom-wrapper'>
