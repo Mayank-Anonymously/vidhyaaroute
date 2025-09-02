@@ -48,6 +48,7 @@ const AdmissionModal = ({ isOpen, onClose }) => {
 
 	const handleSubmit = async (e) => {
 		e.preventDefault();
+		setLoading(true);
 		try {
 			// ✅ API request to your backend
 			const response = await axios.post(
@@ -59,17 +60,19 @@ const AdmissionModal = ({ isOpen, onClose }) => {
 				setMessage(
 					'✅ Query submitted successfully! Check your email for confirmation.'
 				);
-				onClose(); // close modal after success
+				// onClose(); // close modal after success
+				setLoading(false);
 			} else {
 				setMessage('❌ Failed to submit query. Please try again.');
 			}
 		} catch (error) {
+			setLoading(false);
 			console.error('Error submitting query:', error);
 			setMessage(error.response?.data?.message || '❌ Something went wrong!');
 		} finally {
 			setLoading(false);
 		}
-		onClose();
+		// onClose();
 	};
 
 	if (!isOpen) return null;
@@ -152,12 +155,23 @@ const AdmissionModal = ({ isOpen, onClose }) => {
 								</option>
 							))}
 					</select>
-					<button
-						type='submit'
-						className='admission-modal__submit-btn'
-						disabled={loading}>
-						{loading ? 'Submitting...' : 'Submit'}
-					</button>
+
+					{loading ? (
+						<span className='admission-modal__submit-btn'>
+							<div
+								class='spinner-border justify-content-center align-items-center'
+								role='status'>
+								<span class='sr-only'></span>
+							</div>
+						</span>
+					) : (
+						<button
+							type='submit'
+							className='admission-modal__submit-btn'
+							disabled={loading}>
+							{loading ? 'Submitting...' : 'Submit'}
+						</button>
+					)}
 				</form>
 				{message && (
 					<p style={{ marginTop: '10px', textAlign: 'center' }}>{message}</p>
