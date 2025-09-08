@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { FaFacebookF, FaInstagram, FaLinkedinIn } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { GoLocation } from 'react-icons/go';
@@ -7,14 +7,14 @@ import { PiClockLight } from 'react-icons/pi';
 import { BsSearch } from 'react-icons/bs';
 import { HiMenu, HiX } from 'react-icons/hi';
 import AdmissionModal from './AdmissionModal';
+import { HOST } from '@/utils/static';
+import { fetchCountries } from '@/utils/apiFunctions/GetAllCountries';
 
-const Navbar = () => {
+const Navbar = ({ data }) => {
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
 	const [showModal, setShowModal] = useState(false);
-	const [isCountriesOpen, setIsCountriesOpen] = useState(false);
-	const [isServicesOpen, setIsServicesOpen] = useState(false);
+	const [country, setCountry] = useState([]);
 
-	// Country data with flag emojis
 	const countries = [
 		{ code: 'uk', name: 'UK', flag: '🇬🇧', path: '/countries/uk' },
 		{ code: 'usa', name: 'USA', flag: '🇺🇸', path: '/countries/usa' },
@@ -31,10 +31,8 @@ const Navbar = () => {
 			flag: '🇩🇪',
 			path: '/countries/germany',
 		},
-		{ code: 'dubai', name: 'Dubai', flag: '🇦🇪', path: '/countries/dubai' },
 		{ code: 'france', name: 'France', flag: '🇫🇷', path: '/countries/france' },
-		{ code: 'europe', name: 'Europe', flag: '🇪🇺', path: '/countries/europe' },
-		{ code: 'italy', name: 'Italy', flag: '🇮🇹', path: '/countries/italy' },
+
 		{
 			code: 'australia',
 			name: 'Australia',
@@ -47,14 +45,6 @@ const Navbar = () => {
 			flag: '🇳🇿',
 			path: '/countries/newzealand',
 		},
-		{
-			code: 'georgia',
-			name: 'Georgia',
-			flag: '🇬🇪',
-			path: '/countries/georgia',
-		},
-		{ code: 'malta', name: 'Malta', flag: '🇲🇹', path: '/countries/malta' },
-		{ code: 'japan', name: 'Japan', flag: '🇯🇵', path: '/countries/japan' },
 	];
 
 	// Services data
@@ -73,6 +63,10 @@ const Navbar = () => {
 	const closeMenu = () => {
 		setIsMenuOpen(false);
 	};
+
+	useEffect(() => {
+		fetchCountries(setCountry);
+	}, []);
 
 	return (
 		<>
@@ -223,15 +217,23 @@ const Navbar = () => {
 							<span>Countries</span>
 							<div className='dropdown-menu countries-grid'>
 								<div className='countries-container'>
-									{countries.map((country) => (
-										<Link
-											key={country.code}
-											href={country.path}
-											className='country-item'
-											onClick={closeMenu}>
-											<span className='country-flag'>{country.flag}</span>
-											<span className='country-name'>{country.name}</span>
-										</Link>
+									{countries.map((countri) => (
+										<>
+											{country
+												.filter((item) => item.country_name === countri.name)
+												.map((iits, index) => (
+													<Link
+														key={index}
+														href={`/countries/${iits.page_url}`}
+														className='country-item'
+														onClick={closeMenu}>
+														<span className='country-flag'>
+															{countri.flag.toUpperCase()}
+														</span>
+														<span className='country-name'>{iits.title}</span>
+													</Link>
+												))}
+										</>
 									))}
 								</div>
 							</div>
@@ -263,3 +265,16 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+export const getServerSideProps = async () => {
+	const res = await axios.get(
+		`https://api.vidhyaroute.com/api/v1/countires/all`
+	);
+	// const res = await axios.get(`${HOST}countires/all`);
+	console.log('res.data:::', res.data);
+	return {
+		props: {
+			data: res.data?.response || null, // safe optional chaining
+		},
+	};
+};

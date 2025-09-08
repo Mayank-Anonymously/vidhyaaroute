@@ -9,8 +9,10 @@ import Review from '@/components/Review';
 import CountryGrid from '@/components/CountryGrid';
 import PartnerBanks from '@/components/PartnerBanks';
 import WhyChooseSection from '@/components/WhyChoose';
+import { HOST } from '@/utils/static';
+import axios from 'axios';
 
-export default function Home() {
+export default function Home({ data }) {
 	const whyItems = [
 		{
 			icon: '/images/icons/chat.png',
@@ -53,7 +55,7 @@ export default function Home() {
 			<Navbar />
 			<HomeBanner />
 			{/* <BreadcrumbBanner/> */}
-			<VisaCategoriesSection />
+			<VisaCategoriesSection data={data} />
 			<ExpertGuidanceSection />
 			<WhyChooseSection
 				label='WHY CHOOSE US'
@@ -68,3 +70,13 @@ export default function Home() {
 		</>
 	);
 }
+
+export const getServerSideProps = async () => {
+	const res = await axios.get(`${HOST}services/all`);
+
+	return {
+		props: {
+			data: res.data?.response || null, // safe optional chaining
+		},
+	};
+};
