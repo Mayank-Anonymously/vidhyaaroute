@@ -3,7 +3,7 @@ import { HOST } from '../static';
 
 export const fetchCountries = async (setCountry) => {
 	try {
-		const res = await axios.get(`${HOST}countires/all`);
+		const res = await axios.get(`${HOST}countries/all`);
 
 		setCountry(res.data.response);
 	} catch (error) {

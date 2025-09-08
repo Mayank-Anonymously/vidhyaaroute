@@ -267,11 +267,7 @@ const Navbar = ({ data }) => {
 export default Navbar;
 
 export const getServerSideProps = async () => {
-	const res = await axios.get(
-		`https://api.vidhyaroute.com/api/v1/countires/all`
-	);
-	// const res = await axios.get(`${HOST}countires/all`);
-	console.log('res.data:::', res.data);
+	const res = await axios.get(`${HOST}countries/all`);
 	return {
 		props: {
 			data: res.data?.response || null, // safe optional chaining

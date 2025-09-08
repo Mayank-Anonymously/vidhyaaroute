@@ -409,7 +409,7 @@ export default UniversitiesDetails;
 export const getServerSideProps = async (context) => {
 	const { query } = context;
 	const { country } = query;
-	const res = await axios.get(`${HOST}countires/${country}`);
+	const res = await axios.get(`${HOST}countries/${country}`);
 
 	const _id = res.data.response._id;
 	// console.log(`${HOST}university/by-category/${_id}`);
