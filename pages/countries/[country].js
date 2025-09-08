@@ -153,75 +153,6 @@ const UniversitiesDetails = ({ data, unidata }) => {
 								dangerouslySetInnerHTML={{ __html: data.page_content }}
 							/>
 
-							{/* Info Sections */}
-							<div className='row mb-5'>
-								{/* Why Study in UK */}
-								<div className='col-lg-6'>
-									<div className='bg-white p-4 rounded shadow-sm h-100'>
-										<h3 className='text-blue mb-4'>
-											<Globe
-												className='me-2'
-												size={24}
-											/>
-											Why Study in the UK?
-										</h3>
-										<p className='text-muted mb-3'>
-											The United Kingdom is home to some of the world's oldest
-											and most prestigious universities, offering exceptional
-											academic standards and research opportunities.
-										</p>
-										<ul className='list-unstyled'>
-											{whyStudyUK.map((item, index) => (
-												<li
-													key={index}
-													className='mb-2 d-flex align-items-start'>
-													<Star
-														className='me-2 text-warning flex-shrink-0 mt-1'
-														size={16}
-													/>
-													<span>{item}</span>
-												</li>
-											))}
-										</ul>
-									</div>
-								</div>
-
-								{/* Application Requirements */}
-								<div className='col-lg-6'>
-									<div className='bg-white p-4 rounded shadow-sm h-100'>
-										<h3 className='text-blue mb-4'>
-											<BookOpen
-												className='me-2'
-												size={24}
-											/>
-											Application Requirements
-										</h3>
-										<div className='alert alert-info'>
-											<strong>Application Deadline:</strong> Most UK
-											universities have deadlines between January-June for
-											September intake.
-										</div>
-										<p className='text-muted mb-3'>
-											General requirements for international students applying
-											to UK universities:
-										</p>
-										<ul className='list-unstyled'>
-											{applicationRequirements.map((item, index) => (
-												<li
-													key={index}
-													className='mb-2 d-flex align-items-start'>
-													<Award
-														className='me-2 text-primary flex-shrink-0 mt-1'
-														size={16}
-													/>
-													<span className='small'>{item}</span>
-												</li>
-											))}
-										</ul>
-									</div>
-								</div>
-							</div>
-
 							{/* Top Universities */}
 							<div className='mb-5'>
 								<h2 className='text-blue mb-4'>
@@ -229,7 +160,8 @@ const UniversitiesDetails = ({ data, unidata }) => {
 										className='me-2'
 										size={28}
 									/>
-									Top UK Universities for International Students
+									Top {data.title.toUpperCase()} Universities for International
+									Students
 								</h2>
 								<div className='row'>
 									{unidata.map((university, index) => (
