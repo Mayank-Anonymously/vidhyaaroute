@@ -34,13 +34,12 @@ const Footer = () => {
 						</div>
 
 						<div className='mb-3'>
-							<div className='d-flex align-items-center mb-2'>
+							<div className=' align-items-center mb-2'>
 								<FaPhone
 									style={{ color: '#5E789C' }}
 									className='me-3'
 								/>
 								<span>+91 89209 49831</span>
-
 								<span>+91 92118 71889</span>
 							</div>
 							<div className='d-flex align-items-center mb-2'>
@@ -78,7 +77,6 @@ const Footer = () => {
 								style={{ width: 40, height: 40, backgroundColor: '#5E789C' }}>
 								<FaYoutube />
 							</a>
-							
 						</div>
 					</div>
 
