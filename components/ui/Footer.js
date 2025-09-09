@@ -39,14 +39,16 @@ const Footer = () => {
 									style={{ color: '#5E789C' }}
 									className='me-3'
 								/>
-								<span>+88 12345 6987 231</span>
+								<span>+91 89209 49831</span>
+
+								<span>+91 92118 71889</span>
 							</div>
 							<div className='d-flex align-items-center mb-2'>
 								<FaEnvelope
 									style={{ color: '#5E789C' }}
 									className='me-3'
 								/>
-								<span>info@example.com</span>
+								<span>info@vidhyaroute.com</span>
 							</div>
 							{/* <div className='d-flex align-items-center mb-3'>
 								<FaMapMarkerAlt

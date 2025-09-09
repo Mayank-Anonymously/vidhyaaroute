@@ -344,7 +344,6 @@ export const getServerSideProps = async (context) => {
 	const res = await axios.get(`${HOST}countries/${country}`);
 
 	const _id = res.data.response._id;
-	// console.log(`${HOST}university/by-category/${_id}`);
 	const ress = await axios.get(`${HOST}university/by-category/${_id}`);
 	return {
 		props: {

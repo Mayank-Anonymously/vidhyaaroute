@@ -111,7 +111,7 @@ const Navbar = ({ data }) => {
 						<BsSearch />
 					</div>
 
-					<a href='tel:+88123456987231'>
+					<a href='tel:+91 8920949831'>
 						<button className='appointment-btn'>Call Now</button>
 					</a>
 				</div>
