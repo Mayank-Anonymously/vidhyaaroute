@@ -11,7 +11,6 @@ const logos = [
 	{ alt: 'Credila', src: '/images/banks/credila.png' },
 	{ alt: 'Avanse', src: '/images/banks/avanse.png' },
 	{ alt: 'Auxilo', src: '/images/banks/auxilo.png' },
-	{ alt: 'ICICI Bank', src: '/images/banks/icici.png' },
 	{ alt: 'Bank of Baroda', src: '/images/banks/bob.png' },
 	{ alt: 'YES BANK', src: '/images/banks/yes.png' },
 	{ alt: 'TATA Capital', src: '/images/banks/tata.png' },

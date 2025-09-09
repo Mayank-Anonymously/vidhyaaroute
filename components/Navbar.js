@@ -103,13 +103,13 @@ const Navbar = ({ data }) => {
 						</a>
 					</div>
 
-					<div className='search-container'>
+					{/* <div className='search-container'>
 						<input
 							type='text'
 							placeholder='Search...'
 						/>
 						<BsSearch />
-					</div>
+					</div> */}
 
 					<a href='tel:+91 8920949831'>
 						<button className='appointment-btn'>Call Now</button>
@@ -118,9 +118,9 @@ const Navbar = ({ data }) => {
 			</div>
 
 			{/* ======= Bottom Navbar ======= */}
-			<div className='navbar-bottom'>
+			<div className='navbar-bottom logo-background'>
 				{/* Centered logo visible on larger screens */}
-				<div className='nav-empty justify-content-center logo-background'>
+				<div className='nav-empty justify-content-center'>
 					<Link href='/'>
 						<img
 							src='/images/logo.png'
@@ -129,7 +129,7 @@ const Navbar = ({ data }) => {
 							className='mt-2 mobile-logo'
 						/>
 					</Link>
-					<div>
+					<div style={{ marginTop: '53px' }}>
 						<p
 							style={{
 								background: 'none',
