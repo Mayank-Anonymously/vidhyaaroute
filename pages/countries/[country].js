@@ -306,16 +306,18 @@ const UniversitiesDetails = ({ data, unidata }) => {
 								<div className='row align-items-center'>
 									<div className='col-lg-8'>
 										<h3 className='mb-2'>
-											Ready to Start Your UK University Application?
+											Ready to Start Your {data.title.toUpperCase()} University
+											Application?
 										</h3>
 										<p className='mb-0'>
 											Get personalized guidance on university selection,
 											application process, scholarship opportunities, and visa
-											requirements for studying in the UK.
+											requirements for studying in thep
+											{data.title.toUpperCase()}.
 										</p>
 									</div>
 									<div className='col-lg-4 text-lg-end'>
-										<a href='tel:+88123456987231'>
+										<a href='tel:+91 8920949831'>
 											<button className='btn btn-light btn-lg'>
 												<GraduationCap
 													className='me-2'

@@ -50,7 +50,7 @@ const OverseasAdmission = ({ data }) => {
 										</p>
 									</div>
 									<div className='col-lg-4 text-lg-end'>
-										<a href='tel:+88123456987231'>
+										<a href='tel:+91 8920949831'>
 											<button className='btn btn-light btn-lg'>
 												<Calendar
 													className='me-2'
@@ -76,7 +76,6 @@ export default OverseasAdmission;
 export const getServerSideProps = async (context) => {
 	const { query } = context;
 	const { cardtitle } = query;
-	console.log(`${HOST}services/${cardtitle}`);
 	const res = await axios.get(`${HOST}services/${cardtitle}`);
 	return {
 		props: {
