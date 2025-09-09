@@ -39,8 +39,13 @@ const Footer = () => {
 									style={{ color: '#5E789C' }}
 									className='me-3'
 								/>
-									<span>+91 89209 49831</span>
-									<span>+91 92118 71889</span>
+								<span>+91 89209 49831</span>
+								<br />
+								<FaPhone
+									style={{ color: '#5E789C' }}
+									className='me-3'
+								/>{' '}
+								<span>+91 92118 71889</span>
 							</div>
 							<div className='d-flex align-items-center mb-2'>
 								<FaEnvelope
@@ -60,19 +65,19 @@ const Footer = () => {
 
 						<div className='d-flex gap-3'>
 							<a
-								href='#'
+								href='https://www.facebook.com/share/1Faw3sy54h/?mibextid=wwXIfr'
 								className='text-white rounded-circle p-2 d-flex align-items-center justify-content-center'
 								style={{ width: 40, height: 40, backgroundColor: '#5E789C' }}>
 								<FaFacebookF />
 							</a>
 							<a
-								href='#'
+								href='https://www.instagram.com/routevidhy?igsh=MTV4cnE5d2xydDk0aQ=='
 								className='text-white rounded-circle p-2 d-flex align-items-center justify-content-center'
 								style={{ width: 40, height: 40, backgroundColor: '#5E789C' }}>
 								<FaInstagram />
 							</a>
 							<a
-								href='#'
+								href='https://youtube.com/@vidhyaaroute?si=HImfUyyT1bkJJ6Kf'
 								className='text-white rounded-circle p-2 d-flex align-items-center justify-content-center'
 								style={{ width: 40, height: 40, backgroundColor: '#5E789C' }}>
 								<FaYoutube />
