@@ -22,7 +22,7 @@ const HomeBanner = () => {
 			highlight: 'World-Class Universities!',
 			description:
 				'Explore top-ranked universities across the globe with our comprehensive guidance. From application assistance to visa processing, we make your dream education accessible and achievable.',
-			link: '/universities',
+			link: '/about',
 		},
 		{
 			id: 3,
@@ -31,7 +31,7 @@ const HomeBanner = () => {
 			highlight: 'Global Journey Today!',
 			description:
 				'Join thousands of successful students who trusted us with their international education dreams. Get personalized counseling and expert support every step of the way.',
-			link: '/contact',
+			link: '/about',
 		},
 	];
 
