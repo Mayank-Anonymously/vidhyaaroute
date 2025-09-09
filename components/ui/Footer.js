@@ -93,82 +93,35 @@ const Footer = () => {
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Employment & Jobs
+									Blogs
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Government & Elections
+									About Us
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Real Estate & Buildings
+									Contact Us
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Health & Medical
+									Terms and Conditions
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
 									href='#'
 									className='text-white text-decoration-none'>
-									Transport & Traffic
-								</a>
-							</li>
-						</ul>
-					</div>
-
-					{/* Column 3 - Useful Links */}
-					<div className='col-lg-3 col-md-6 mb-4'>
-						<h5 className='text-white mb-4 position-relative'>
-							Useful Links
-							<div
-								className='border-bottom border-primary position-absolute'
-								style={{ width: 50, height: 2, bottom: -10, left: 0 }}></div>
-						</h5>
-						<ul className='list-unstyled'>
-							<li className='mb-2'>
-								<a
-									href='#'
-									className='text-white text-decoration-none'>
-									Administration
-								</a>
-							</li>
-							<li className='mb-2'>
-								<a
-									href='#'
-									className='text-white text-decoration-none'>
-									Fire Services
-								</a>
-							</li>
-							<li className='mb-2'>
-								<a
-									href='#'
-									className='text-white text-decoration-none'>
-									Business
-								</a>
-							</li>
-							<li className='mb-2'>
-								<a
-									href='#'
-									className='text-white text-decoration-none'>
-									Taxation
-								</a>
-							</li>
-							<li className='mb-2'>
-								<a
-									href='#'
-									className='text-white text-decoration-none'>
-									Circular's And Go's
+									Privacy Policy
 								</a>
 							</li>
 						</ul>
@@ -219,6 +172,8 @@ const Footer = () => {
 								</a>
 							</li>
 						</ul>
+					</div>
+					<div className='col-lg-3 col-md-6 mb-4'>
 						<h5 className='text-white mb-4 position-relative'>
 							Top Universities
 							<div

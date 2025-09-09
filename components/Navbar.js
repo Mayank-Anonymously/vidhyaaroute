@@ -138,7 +138,7 @@ const Navbar = ({ data }) => {
 								marginBottom: -20,
 								fontSize: 30,
 							}}>
-							Vidhyaaroute
+							Vidhyaa Route
 						</p>
 						<p
 							style={{
