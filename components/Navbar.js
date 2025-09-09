@@ -125,7 +125,7 @@ const Navbar = ({ data }) => {
 						<img
 							src='/images/logo.png'
 							alt='Vidhyaarohee'
-							style={{ width: 120, height: 120 }}
+							style={{ width: 160, height: 160 }}
 							className='mt-2 mobile-logo'
 						/>
 					</Link>
