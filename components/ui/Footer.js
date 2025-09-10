@@ -103,6 +103,14 @@ const Footer = () => {
 							</li>
 							<li className='mb-2'>
 								<a
+									href='/faq'
+									className='text-white text-decoration-none'>
+									Frequently Asked Questions
+								</a>
+							</li>
+
+							<li className='mb-2'>
+								<a
 									href='#'
 									className='text-white text-decoration-none'>
 									About Us
