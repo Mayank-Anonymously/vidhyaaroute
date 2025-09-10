@@ -117,14 +117,14 @@ const Footer = () => {
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href='/terms-and-conditions'
 									className='text-white text-decoration-none'>
 									Terms and Conditions
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href='/privacy-policy'
 									className='text-white text-decoration-none'>
 									Privacy Policy
 								</a>
