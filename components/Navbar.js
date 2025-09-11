@@ -9,11 +9,13 @@ import { HiMenu, HiX } from 'react-icons/hi';
 import AdmissionModal from './AdmissionModal';
 import { HOST } from '@/utils/static';
 import { fetchCountries } from '@/utils/apiFunctions/GetAllCountries';
+import { fetchService } from '@/utils/apiFunctions/GetAllService';
 
 const Navbar = ({ data }) => {
 	const [isMenuOpen, setIsMenuOpen] = useState(false);
 	const [showModal, setShowModal] = useState(false);
 	const [country, setCountry] = useState([]);
+	const [services, setService] = useState([]);
 
 	const countries = [
 		{ code: 'uk', name: 'UK', flag: '🇬🇧', path: '/countries/uk' },
@@ -47,13 +49,6 @@ const Navbar = ({ data }) => {
 		},
 	];
 
-	// Services data
-	const services = [
-		{ name: 'Student Visa', path: '/studentvisa' },
-		{ name: 'Business Visa', path: '/businessvisa' },
-		{ name: 'OET Coaching', path: '/oetcoaching' },
-	];
-
 	// Toggle the mobile menu open/close
 	const toggleMenu = () => {
 		setIsMenuOpen(!isMenuOpen);
@@ -66,7 +61,9 @@ const Navbar = ({ data }) => {
 
 	useEffect(() => {
 		fetchCountries(setCountry);
+		fetchService(setService);
 	}, []);
+	console.log(services);
 
 	return (
 		<>

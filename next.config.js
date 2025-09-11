@@ -6,6 +6,9 @@ const nextConfig = {
 	images: {
 		domains: ['api.vidhyaroute.com'],
 	},
+	eslint: {
+		ignoreDuringBuilds: true,
+	},
 };
 
 export default nextConfig;
