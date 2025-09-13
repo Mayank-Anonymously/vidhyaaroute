@@ -4,7 +4,6 @@ import { FaFacebookF, FaInstagram, FaLinkedinIn } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { GoLocation } from 'react-icons/go';
 import { PiClockLight } from 'react-icons/pi';
-import { BsSearch } from 'react-icons/bs';
 import { HiMenu, HiX } from 'react-icons/hi';
 import AdmissionModal from './AdmissionModal';
 import { HOST } from '@/utils/static';
@@ -63,7 +62,6 @@ const Navbar = ({ data }) => {
 		fetchCountries(setCountry);
 		fetchService(setService);
 	}, []);
-	console.log(services);
 
 	return (
 		<>
@@ -189,14 +187,14 @@ const Navbar = ({ data }) => {
 						{/* Services Dropdown */}
 						<div className='nav-link dropdown-container services-dropdown'>
 							<span>Our Services</span>
-							<div className='dropdown-menu'>
+							<div className='dropdowßn-menu'>
 								{services.map((service, index) => (
 									<Link
 										key={index}
-										href={service.path}
+										href={`/services/${service.page_url}`}
 										className='dropdown-item'
 										onClick={closeMenu}>
-										{service.name}
+										{service.title}
 									</Link>
 								))}
 							</div>

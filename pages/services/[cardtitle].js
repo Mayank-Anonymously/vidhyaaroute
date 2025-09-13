@@ -19,7 +19,7 @@ const OverseasAdmission = ({ data }) => {
 	return (
 		<>
 			<Navbar />
-			<BreadcrumbBanner title='Overseas Admission' />
+			<BreadcrumbBanner title={data.category} />
 			<div
 				className='container'
 				style={{ marginTop: '100px' }}>
