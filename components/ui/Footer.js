@@ -96,31 +96,31 @@ const Footer = () => {
 						<ul className='list-unstyled'>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href='/blogs'
 									className='text-white text-decoration-none'>
 									Blogs
-								</a>
-							</li>
-							<li className='mb-2'>
-								<a
-									href='/faq'
-									className='text-white text-decoration-none'>
-									Frequently Asked Questions
 								</a>
 							</li>
 
 							<li className='mb-2'>
 								<a
-									href='#'
+									href='/about'
 									className='text-white text-decoration-none'>
 									About Us
 								</a>
 							</li>
 							<li className='mb-2'>
 								<a
-									href='#'
+									href='/contact-us'
 									className='text-white text-decoration-none'>
 									Contact Us
+								</a>
+							</li>
+							<li className='mb-2'>
+								<a
+									href='/privacy-policy'
+									className='text-white text-decoration-none'>
+									Privacy Policy
 								</a>
 							</li>
 							<li className='mb-2'>
@@ -132,9 +132,9 @@ const Footer = () => {
 							</li>
 							<li className='mb-2'>
 								<a
-									href='/privacy-policy'
+									href='/faq'
 									className='text-white text-decoration-none'>
-									Privacy Policy
+									Frequently Asked Questions
 								</a>
 							</li>
 						</ul>

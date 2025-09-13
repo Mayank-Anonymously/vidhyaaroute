@@ -5,14 +5,14 @@ import HomeBanner from '@/components/HomeBanner';
 import ExpertGuidanceSection from '@/components/ExpertGuidanceSection';
 import Timeline from '@/components/Timeline';
 import Footer from '@/components/ui/Footer';
-import Review from '@/components/Review';
 import CountryGrid from '@/components/CountryGrid';
 import PartnerBanks from '@/components/PartnerBanks';
 import WhyChooseSection from '@/components/WhyChoose';
 import { HOST } from '@/utils/static';
 import axios from 'axios';
+import RecentlyPosted from '@/components/RecentlyUpdated';
 
-export default function Home({ data }) {
+export default function Home({ data, resblogs }) {
 	const whyItems = [
 		{
 			icon: '/images/icons/chat.png',
@@ -63,7 +63,7 @@ export default function Home({ data }) {
 				items={whyItems}
 			/>
 			<Timeline />
-			<Review />
+			<RecentlyPosted blogsData={resblogs} />
 			<CountryGrid />
 			<PartnerBanks />
 			<Footer />
@@ -73,10 +73,12 @@ export default function Home({ data }) {
 
 export const getServerSideProps = async () => {
 	const res = await axios.get(`${HOST}services/all`);
+	const resblogs = await axios.get(`${HOST}blogs/all`);
 
 	return {
 		props: {
 			data: res.data?.response || null, // safe optional chaining
+			resblogs: resblogs.data?.response || null, // safe optional chaining
 		},
 	};
 };

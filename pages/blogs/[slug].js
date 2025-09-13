@@ -2,12 +2,15 @@
 import BreadcrumbBanner from '@/components/BreadCrumbBanner';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/ui/Footer';
+import { HOST } from '@/utils/static';
+import axios from 'axios';
 import { useRouter } from 'next/router';
 import { FaUser, FaCalendarAlt } from 'react-icons/fa';
 
 const blogData = [
 	{
-		title: 'Rethinking the Gatekeepers: Admissions & Academic Priorities in Study Abroad-2026.',
+		title:
+			'Rethinking the Gatekeepers: Admissions & Academic Priorities in Study Abroad-2026.',
 		date: 'Aug 6, 2025',
 		author: 'Vidhyaroute',
 		description:
@@ -33,7 +36,8 @@ const blogData = [
 		`,
 	},
 	{
-		title: 'Borders, Bureaucracy & Breakthroughs: The 2026 Student Visa & Policy Landscape',
+		title:
+			'Borders, Bureaucracy & Breakthroughs: The 2026 Student Visa & Policy Landscape',
 		date: 'Aug 4, 2025',
 		author: 'Vidhyaroute',
 		description:
@@ -47,51 +51,57 @@ const blogData = [
 	},
 ];
 
-export default function BlogPage() {
-	const router = useRouter();
-	const { slug } = router.query;
-
-	// Find blog by slug
-	const blog = blogData.find((b) => b.slug === slug);
-
-	if (!blog) {
+export default function BlogPage({ data }) {
+	if (!data) {
 		return (
-			<div className="container py-5">
+			<div className='container py-5'>
 				<h2>Blog not found</h2>
 			</div>
 		);
 	}
 
 	return (
-        <>
-        <Navbar/>
-        <BreadcrumbBanner title="Blogs" />
-		<div className="container py-5">
-			<img
-				src={blog.image}
-				alt={blog.title}
-				className="w-100 rounded mb-4"
-				style={{ maxHeight: '400px', objectFit: 'cover' }}
-			/>
+		<>
+			<Navbar />
+			<BreadcrumbBanner title='Blogs' />
+			<div className='container py-5'>
+				<img
+					src={`https://api.vidhyaroute.com/resources/${data.image}`}
+					alt={data.page_image_tag}
+					className='w-100 rounded mb-4'
+					style={{ maxHeight: '400px', objectFit: 'cover' }}
+				/>
 
-			<h1 className="fw-bold text-blue">{blog.title}</h1>
+				<h1 className='fw-bold text-blue'>{data.title}</h1>
 
-			<div className="d-flex text-muted small mb-4 gap-3">
-				<div className="d-flex align-items-center gap-1">
-					<FaUser className="text-blue" /> <span>By {blog.author}</span>
+				<div className='d-flex text-muted small mb-4 gap-3'>
+					<div className='d-flex align-items-center gap-1'>
+						<FaUser className='text-blue' /> <span>By {data.author}</span>
+					</div>
+					<div className='d-flex align-items-center gap-1'>
+						<FaCalendarAlt className='text-blue' /> <span>{data.date}</span>
+					</div>
 				</div>
-				<div className="d-flex align-items-center gap-1">
-					<FaCalendarAlt className="text-blue" /> <span>{blog.date}</span>
-				</div>
+
+				{/* Blog Content */}
+				<div
+					className='blog-content'
+					dangerouslySetInnerHTML={{ __html: data.page_content }}
+				/>
 			</div>
-
-			{/* Blog Content */}
-			<div
-				className="blog-content"
-				dangerouslySetInnerHTML={{ __html: blog.content }}
-			/>
-		</div>
-        <Footer/>
-        </>
+			<Footer />
+		</>
 	);
 }
+
+export const getServerSideProps = async (context) => {
+	const { query } = context;
+	const { slug } = query;
+	const res = await axios.get(`${HOST}blogs/${slug}`);
+
+	return {
+		props: {
+			data: res.data.response || null, // safe optional chaining
+		},
+	};
+};
