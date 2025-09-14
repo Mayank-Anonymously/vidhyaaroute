@@ -1,37 +1,14 @@
 import React, { useState } from 'react';
 import PhoneInput from 'react-phone-input-2';
 import 'react-phone-input-2/lib/style.css';
-import axios from 'axios'; // ✅ Import axios
-const universityData = {
-	USA: ['Harvard University', 'Stanford University', 'MIT'],
-	Canada: [
-		'University of Toronto',
-		'McGill University',
-		'University of British Columbia',
-		'other',
-	],
-	Australia: [
-		'University of Sydney',
-		'Monash University',
-		'University of Melbourne',
-		'other',
-	],
-	UK: [
-		'University of Oxford',
-		'University of Cambridge',
-		'Imperial College London',
-		'other',
-	],
-	Germany: ['LMU Munich', 'TU Berlin', 'Heidelberg University', 'other'],
-};
+import axios from 'axios';
 
-const AdmissionModal = ({ isOpen, onClose }) => {
+const OpeningModal = ({ isOpen, onClose }) => {
 	const [form, setForm] = useState({
 		name: '',
 		phone: '',
 		email: '',
-		country: '',
-		university: '',
+		query: '',
 	});
 	const [loading, setLoading] = useState(false);
 	const [message, setMessage] = useState('');
@@ -41,7 +18,6 @@ const AdmissionModal = ({ isOpen, onClose }) => {
 		setForm((prev) => ({
 			...prev,
 			[name]: value,
-			...(name === 'country' && { university: '' }),
 		}));
 	};
 
@@ -53,29 +29,26 @@ const AdmissionModal = ({ isOpen, onClose }) => {
 		e.preventDefault();
 		setLoading(true);
 		try {
-			// ✅ API request to your backend
 			const response = await axios.post(
-				'https://api.vidhyaroute.com/api/v1/query/raise-query',
+				// 'http://192.168.1.10:3202/api/v1/query/raise-direct-query',
+				'https://api.vidhyaroute.com/api/v1/query/raise-query', 
 				form
 			);
 
 			if (response.data.success) {
 				setMessage(
-					'✅ Query submitted successfully! Check your email for confirmation.'
+					'✅ Query submitted successfully! We Will get touch within 24 hours.'
 				);
-				// onClose(); // close modal after success
-				setLoading(false);
+				setForm({ name: '', phone: '', email: '', query: '' }); // reset form
 			} else {
 				setMessage('❌ Failed to submit query. Please try again.');
 			}
 		} catch (error) {
-			setLoading(false);
 			console.error('Error submitting query:', error);
 			setMessage(error.response?.data?.message || '❌ Something went wrong!');
 		} finally {
 			setLoading(false);
 		}
-		// onClose();
 	};
 
 	if (!isOpen) return null;
@@ -88,7 +61,7 @@ const AdmissionModal = ({ isOpen, onClose }) => {
 					onClick={onClose}>
 					×
 				</button>
-				<h2 className='admission-modal__title'>Get Your Admission</h2>
+				<h2 className='admission-modal__title'>Send your Queries</h2>
 				<form
 					className='admission-modal__form'
 					onSubmit={handleSubmit}>
@@ -125,46 +98,21 @@ const AdmissionModal = ({ isOpen, onClose }) => {
 						required
 					/>
 
-					<select
-						className='admission-modal__select'
-						name='country'
-						value={form.country}
-						onChange={handleChange}
-						required>
-						<option value=''>Select your preferred study destination</option>
-						{Object.keys(universityData).map((country) => (
-							<option
-								key={country}
-								value={country}>
-								{country}
-							</option>
-						))}
-					</select>
-
-					<select
-						className='admission-modal__select'
-						name='university'
-						value={form.university}
+					<textarea
+						className='admission-modal__textarea'
+						name='query'
+						placeholder='Enter your query here...'
+						value={form.query}
 						onChange={handleChange}
 						required
-						disabled={!form.country}>
-						<option value=''>Select your preferred study university</option>
-						{form.country &&
-							universityData[form.country].map((uni) => (
-								<option
-									key={uni}
-									value={uni}>
-									{uni}
-								</option>
-							))}
-					</select>
+					/>
 
 					{loading ? (
 						<span className='admission-modal__submit-btn'>
 							<div
-								class='spinner-border justify-content-center align-items-center'
+								className='spinner-border justify-content-center align-items-center'
 								role='status'>
-								<span class='sr-only'></span>
+								<span className='sr-only'></span>
 							</div>
 						</span>
 					) : (
@@ -172,16 +120,17 @@ const AdmissionModal = ({ isOpen, onClose }) => {
 							type='submit'
 							className='admission-modal__submit-btn'
 							disabled={loading}>
-							{loading ? 'Submitting...' : 'Submit'}
+							Submit
 						</button>
 					)}
 				</form>
+
 				{message && (
 					<p style={{ marginTop: '10px', textAlign: 'center' }}>{message}</p>
-				)}{' '}
+				)}
 			</div>
 		</div>
 	);
 };
 
-export default AdmissionModal;
+export default OpeningModal;
