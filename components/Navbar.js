@@ -187,7 +187,7 @@ const Navbar = ({ data }) => {
 						{/* Services Dropdown */}
 						<div className='nav-link dropdown-container services-dropdown'>
 							<span>Our Services</span>
-							<div className='dropdowßn-menu'>
+							<div className='dropdown-menu'>
 								{services.map((service, index) => (
 									<Link
 										key={index}
