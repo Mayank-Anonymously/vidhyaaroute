@@ -59,7 +59,7 @@ export default function BlogPage({ data }) {
 			</div>
 		);
 	}
-
+	data.author = 'Vidhyaa Route';
 	return (
 		<>
 			<Navbar />
@@ -79,7 +79,8 @@ export default function BlogPage({ data }) {
 						<FaUser className='text-blue' /> <span>By {data.author}</span>
 					</div>
 					<div className='d-flex align-items-center gap-1'>
-						<FaCalendarAlt className='text-blue' /> <span>{data.date}</span>
+						<FaCalendarAlt className='text-blue' />{' '}
+						<span>{moment(data.createdAt).format('DD-MM-YYYY')}</span>
 					</div>
 				</div>
 

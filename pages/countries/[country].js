@@ -137,7 +137,7 @@ const UniversitiesDetails = ({ data, unidata }) => {
 	return (
 		<>
 			<Navbar />
-			<BreadcrumbBanner title='UK Universities' />
+			<BreadcrumbBanner title={`${data.title.toUpperCase()} Universities`} />
 			<div
 				className='container'
 				style={{ marginTop: '100px' }}>
@@ -301,33 +301,33 @@ const UniversitiesDetails = ({ data, unidata }) => {
 							</div>
 
 							{/* Call to Action */}
-								<div className='bg-primary text-white p-4 rounded mb-4'>
-									<div className='row align-items-center'>
-										<div className='col-lg-8'>
-											<h3 className='mb-2'>
-												Ready to Start Your {data.title.toUpperCase()} University
-												Application?
-											</h3>
-											<p className='mb-0'>
-												Get personalized guidance on university selection,
-												application process, scholarship opportunities, and visa
-												requirements for studying in thep
-												{data.title.toUpperCase()}.
-											</p>
-										</div>
-										<div className='col-lg-4 text-lg-end'>
-											<a href='tel:+91 8920949831'>
-												<button className='btn btn-light btn-lg'>
-													<GraduationCap
-														className='me-2'
-														size={20}
-													/>
-													Start Your Journey
-												</button>
-											</a>
-										</div>
+							<div className='bg-primary text-white p-4 rounded mb-4'>
+								<div className='row align-items-center'>
+									<div className='col-lg-8'>
+										<h3 className='mb-2'>
+											Ready to Start Your {data.title.toUpperCase()} University
+											Application?
+										</h3>
+										<p className='mb-0'>
+											Get personalized guidance on university selection,
+											application process, scholarship opportunities, and visa
+											requirements for studying in thep
+											{data.title.toUpperCase()}.
+										</p>
+									</div>
+									<div className='col-lg-4 text-lg-end'>
+										<a href='tel:+91 8920949831'>
+											<button className='btn btn-light btn-lg'>
+												<GraduationCap
+													className='me-2'
+													size={20}
+												/>
+												Start Your Journey
+											</button>
+										</a>
 									</div>
 								</div>
+							</div>
 						</div>
 					</div>
 				</div>
