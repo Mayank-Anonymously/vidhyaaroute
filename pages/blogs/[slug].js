@@ -4,6 +4,7 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/ui/Footer';
 import { HOST } from '@/utils/static';
 import axios from 'axios';
+import moment from 'moment';
 import { useRouter } from 'next/router';
 import { FaUser, FaCalendarAlt } from 'react-icons/fa';
 
