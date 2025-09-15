@@ -169,7 +169,7 @@ const UniversitiesDetails = ({ data, unidata }) => {
 											className='col-lg-6 mb-4'>
 											<div className='card h-100 shadow-sm'>
 												<img
-													src={university.image}
+													src={`https://api.vidhyaroute.com/resources/${university.image}`}
 													alt={university.name}
 													className='card-img-top'
 													style={{ height: '250px', objectFit: 'cover' }}
