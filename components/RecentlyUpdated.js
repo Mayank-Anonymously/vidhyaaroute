@@ -57,7 +57,7 @@ const RecentlyPosted = ({ blogsData }) => {
 					className='container'
 					style={{ marginBottom: '100px' }}>
 					<div className='row g-4'>
-						{blogsData.map((item, index) => {
+						{blogsData.slice(0, 3).map((item, index) => {
 							item.author = 'Vidhyaa Route';
 							return (
 								<div
