@@ -74,15 +74,6 @@ const VisaCategoriesSection = ({ data }) => {
 									/>
 								</div>
 								<div className='card-body position-relative pt-5 text-center'>
-									<div className='card-icon'>
-										<Image
-											src={card.icon}
-											alt='Icon'
-											width={30}
-											height={30}
-											objectFit='contain'
-										/>
-									</div>
 									<p className='text-secondary text-start mb-4'>
 										{card.category}
 									</p>
