@@ -111,7 +111,7 @@ const Footer = () => {
 							</li>
 							<li className='mb-2'>
 								<a
-									href='/contact-us'
+									href='/contact'
 									className='text-white text-decoration-none'>
 									Contact Us
 								</a>
