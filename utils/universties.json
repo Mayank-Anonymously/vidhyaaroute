@@ -1,0 +1,1904 @@
+[{
+  "_id": {
+    "$oid": "68c7ebe24ff490389edf80c3"
+  },
+  "meta_title": "Massachusetts Institute of Technology (MIT)",
+  "meta_keywords": "Massachusetts Institute of Technology (MIT)",
+  "meta_description": "The Massachusetts Institute of Technology (MIT) holds the #1 rank globally in the QS World University Rankings 2026, solidifying its position as the world's best university for the latest rankings, which were released in June 2025",
+  "category": "68c7de3c132b9055e274c744",
+  "page_url": "the-massachusetts-institute-of-technology",
+  "page_image_tag": "usa ",
+  "title": "USA ",
+  "page_content": "<p>The Massachusetts Institute of Technology (MIT), founded in 1861, is a private research university located in Cambridge, Massachusetts, just across the Charles River from Boston. Guided by its motto <i>“Mens et Manus”</i> (Mind and Hand), MIT emphasizes the integration of academic knowledge with practical application. Over the years, it has earned a reputation as one of the most prestigious universities in the world, consistently ranked #1 in global university rankings for technology, engineering, and innovation. MIT is renowned for producing world leaders, entrepreneurs, scientists, and Nobel Prize winners who have significantly shaped industries, advanced scientific research, and driven global progress.</p><p>&nbsp;</p>",
+  "image": "1757932514513-474265845.jpg",
+  "name": "Massachusetts Institute of Technology (MIT)",
+  "location": "Cambridge, Massachusetts",
+  "ranking": "QS Rank 1",
+  "description": "The Massachusetts Institute of Technology (MIT) holds the #1 rank globally in the QS World University Rankings 2026, solidifying its position as the world's best university for the latest rankings, which were released in June 2025",
+  "highlights": [
+    "Top Global Rankings",
+    "Research and Innovation",
+    "Vibrant Community",
+    "Startup Ecosystem"
+  ],
+  "tuitionRange": "US$57,000–61,000",
+  "popularPrograms": [
+    "Electrical Engineering",
+    "Mechanical Engineering",
+    "Aerospace engineering",
+    "Computer Science",
+    "Artificial Intelligence",
+    "Economics",
+    "Physics",
+    "Data Science",
+    "Architecture."
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T10:35:14.521Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T10:35:14.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7eee94ff490389edf80e7"
+  },
+  "meta_title": "Harvard University",
+  "meta_keywords": "Harvard University",
+  "meta_description": "Harvard University, founded in 1636 in Cambridge, USA, is the world’s oldest and most prestigious university. It offers top programs in business, law, medicine, and more, with students from across the globe. Known for excellence, strong alumni, and generous financial aid, it is a dream destination for many.",
+  "category": "68c7de3c132b9055e274c744",
+  "page_url": "usa ",
+  "page_image_tag": "usa ",
+  "title": "Harvard University",
+  "page_content": "<p>Harvard University is one of the oldest and most famous universities in the world. It was started in 1636 and is located in Cambridge, Massachusetts, USA. It is a private Ivy League university and is known for its high-quality education and research. Harvard has 13 different schools, such as Harvard College for undergraduate students, Harvard Business School, Harvard Law School, and Harvard Medical School. Students can study almost any subject here, from science and business to law, medicine, and public policy. Getting admission is very tough, as only about 3–4 out of every 100 students are accepted. To get in, students need excellent marks, strong activities outside studies, good essays, and recommendation letters. Studying at Harvard is expensive, costing around $80,000 a year with tuition and living expenses, but the university gives very good financial help. Many students from families earning less than $85,000 a year study for free. Harvard has more than 23,000 students, and over 20% are from other countries. Life at Harvard is full of opportunities, with more than 400 clubs, sports, cultural activities, and research projects. Its alumni include US presidents like John F. Kennedy and Barack Obama, business leaders like Bill Gates, Mark Zuckerberg, and Sundar Pichai, along with many Nobel Prize winners and world leaders. Because of its history, top professors, and global reputation, Harvard is a dream university for students everywhere</p>",
+  "image": "1757933289295-899302638.jpg",
+  "name": "Harvard University",
+  "location": "Cambridge, MA",
+  "ranking": "4th ",
+  "description": "Harvard University, founded in 1636 in Cambridge, USA, is the world’s oldest and most prestigious university. It offers top programs in business, law, medicine, and more, with students from across the globe. Known for excellence, strong alumni, and generous financial aid, it is a dream destination for many.",
+  "highlights": [
+    "Very prestigious",
+    "large global",
+    "network",
+    "generous financial aid"
+  ],
+  "tuitionRange": "US$55–60k",
+  "popularPrograms": [
+    "Law",
+    "Business",
+    "Medicine",
+    "Liberal Arts",
+    "Social Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T10:48:09.309Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T10:48:09.309Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7f0a14ff490389edf80fc"
+  },
+  "meta_title": "Stanford University",
+  "meta_keywords": "Stanford University",
+  "meta_description": "Stanford University, founded in 1885 in California’s Silicon Valley, is one of the world’s top universities known for innovation, research, and global impact. In the QS World University Rankings 2026, it is ranked #3 worldwide.",
+  "category": "68c7de3c132b9055e274c744",
+  "page_url": "usa ",
+  "page_image_tag": "usa",
+  "title": "Stanford University",
+  "page_content": "<p>Stanford University, founded in 1885 and located in California’s Silicon Valley, is one of the world’s leading private universities, well known for its innovation, research, and strong academic programs in fields such as engineering, business, law, medicine, and the sciences. Its beautiful campus offers modern facilities, active student life, and close ties with the tech industry, making it a hub for creativity and entrepreneurship. Stanford has produced many Nobel Prize winners, business leaders, and entrepreneurs, including the founders of Google, Yahoo, and Netflix. In the QS World University Rankings 2026, Stanford is ranked #3 globally, confirming its position as one of the top universities in the world.</p>",
+  "image": "1757933729323-784603813.jpg",
+  "name": "Stanford University",
+  "location": "Stanford, CA",
+  "ranking": "QS Rank 3rd",
+  "description": "Stanford University, founded in 1885 in California’s Silicon Valley, is one of the world’s top universities known for innovation, research, and global impact. In the QS World University Rankings 2026, it is ranked #3 worldwide.",
+  "highlights": [
+    "Located in Silicon Valley",
+    "strong in startup",
+    "tech innovation"
+  ],
+  "tuitionRange": "US$550,00–60,000",
+  "popularPrograms": [
+    "Computer Science",
+    "Engineering",
+    "Business",
+    "Humanities"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T10:55:29.336Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T10:55:29.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7f1df4ff490389edf80fe"
+  },
+  "meta_title": "UC Berkeley",
+  "meta_keywords": "UC Berkeley",
+  "meta_description": "The University of California, Berkeley (often called Cal or Berkeley) is a top public research university in Berkeley, California. It has been known for its strong academics, cutting-edge research, and a tradition of political activism (notably the Free Speech Movement).",
+  "category": "68c7de3c132b9055e274c744",
+  "page_url": "USA ",
+  "page_image_tag": "usa ",
+  "title": "UC Berkeley",
+  "page_content": "<p>The University of California, Berkeley (often called Cal or Berkeley) is a top public research university in Berkeley, California. It has been known for its strong academics, cutting-edge research, and a tradition of political activism (notably the Free Speech Movement). Berkeley offers many programs in sciences, engineering, social sciences, arts and humanities, business, and more, with excellent faculty, lots of lab &amp; research opportunities, and a very diverse, global student body. It is especially famous for its contributions in fields like computer science, physics, environmental science, and law.</p>",
+  "image": "1757934047670-237393986.jpg",
+  "name": "UC Berkeley",
+  "location": "Berkeley, CA",
+  "ranking": "QS Ranking 17th",
+  "description": "The University of California, Berkeley (often called Cal or Berkeley) is a top public research university in Berkeley, California. It has been known for its strong academics, cutting-edge research, and a tradition of political activism (notably the Free Speech Movement).",
+  "highlights": [
+    "Strong public university",
+    "large research output"
+  ],
+  "tuitionRange": "US $45,000–60,000",
+  "popularPrograms": [
+    "Engineering",
+    "EECS",
+    "Social Sciences",
+    "Environmental Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T11:00:47.680Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T11:00:47.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7f4064ff490389edf8105"
+  },
+  "meta_title": "Caltech (California Institute of Technology)",
+  "meta_keywords": "Caltech (California Institute of Technology)",
+  "meta_description": "The California Institute of Technology (Caltech), located in Pasadena, California, is a world-leading private university focused on science and engineering. Known for its small size, low student-faculty ratio, and cutting-edge research, Caltech manages NASA’s Jet Propulsion Laboratory and has been home to many Nobel Prize winners. In the QS World University Rankings 2025, it is ranked #10 globally.",
+  "category": "68c7de3c132b9055e274c744",
+  "page_url": "usa ",
+  "page_image_tag": "usa ",
+  "title": "Caltech (California Institute of Technology)",
+  "page_content": "<p>The California Institute of Technology (Caltech), located in Pasadena, California, is a world-leading private university focused on science and engineering. Known for its small size, low student-faculty ratio, and cutting-edge research, Caltech manages NASA’s Jet Propulsion Laboratory and has been home to many Nobel Prize winners. In the QS World University Rankings 2025, it is ranked #10 globally.</p>",
+  "image": "1757934598905-458672294.jpg",
+  "name": "Caltech (California Institute of Technology)",
+  "location": "Pasadena, California",
+  "ranking": "QS Ranking 10th",
+  "description": "The California Institute of Technology (Caltech), located in Pasadena, California, is a world-leading private university focused on science and engineering. Known for its small size, low student-faculty ratio, and cutting-edge research, Caltech manages NASA’s Jet Propulsion Laboratory and has been home to many Nobel Prize winners. In the QS World University Rankings 2025, it is ranked #10 globally.",
+  "highlights": [
+    "world leading",
+    "science",
+    "engineering",
+    "low student-faculty ratio",
+    "Nobel Prize winners"
+  ],
+  "tuitionRange": "US$60,000-65,000",
+  "popularPrograms": [
+    "Pure Sciences Physics",
+    "Electrical Engineering",
+    "Mechanical Engineering",
+    "Astronomy",
+    "Astrophysics",
+    "Computer Science"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T11:09:58.918Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T11:09:58.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7f65c4ff490389edf810f"
+  },
+  "meta_title": "University of Chicago",
+  "meta_keywords": "University of Chicago",
+  "meta_description": "The University of Chicago (UChicago), founded in 1890 and located in Chicago, Illinois, is a private research university known for its rigorous academics, strong emphasis on inquiry and discussion, and world-class research. It has an undergraduate college and many graduate divisions in fields like biological sciences, social sciences, humanities, physical sciences, and professional schools of business, law, public policy, medicine, etc. UChicago has produced many Nobel laureates, developed the Chicago school of economics, and made key scientific breakthroughs (like carbon-14 dating, and early work in nuclear physics)",
+  "category": "68c7de3c132b9055e274c744",
+  "page_url": "usa",
+  "page_image_tag": "usa",
+  "title": "University of Chicago",
+  "page_content": "<p>The University of Chicago (UChicago), founded in 1890 and located in Chicago, Illinois, is a private research university known for its rigorous academics, strong emphasis on inquiry and discussion, and world-class research. It has an undergraduate college and many graduate divisions in fields like biological sciences, social sciences, humanities, physical sciences, and professional schools of business, law, public policy, medicine, etc. UChicago has produced many Nobel laureates, developed the Chicago school of economics, and made key scientific breakthroughs (like carbon-14 dating, and early work in nuclear physics)</p>",
+  "image": "1757935196623-230880793.jpg",
+  "name": "University of Chicago",
+  "location": "Chicago, Illinois",
+  "ranking": "QS Ranking 21th",
+  "description": "The University of Chicago (UChicago), founded in 1890 and located in Chicago, Illinois, is a private research university known for its rigorous academics, strong emphasis on inquiry and discussion, and world-class research. It has an undergraduate college and many graduate divisions in fields like biological sciences, social sciences, humanities, physical sciences, and professional schools of business, law, public policy, medicine, etc. UChicago has produced many Nobel laureates, developed the Chicago school of economics, and made key scientific breakthroughs (like carbon-14 dating, and early work in nuclear physics)",
+  "highlights": [
+    "world-class research",
+    "world class education",
+    "Nobel laureates"
+  ],
+  "tuitionRange": "US$60,000-68,000",
+  "popularPrograms": [
+    "Economics",
+    "Social Sciences",
+    "Law",
+    "Political Science",
+    "Data Science",
+    "Business",
+    "Mathematic"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T11:19:56.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T11:19:56.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7fc014ff490389edf8133"
+  },
+  "meta_title": "University of Toronto",
+  "meta_keywords": "University of Toronto",
+  "meta_description": "The University of Toronto is Canada’s largest and one of its most respected universities, with over 100,000 students spread across three campuses in Ontario. It offers more than 700 undergraduate programs and over 200 graduate programs, and is especially known for strong research output, excellent faculty, and a rich academic environment. U of T has made major contributions to science and society — for example, insulin was discovered there, and it has been a leader in artificial intelligence, mathematical theory, medical research, and more.",
+  "category": "68c7e3df4ff490389edf8098",
+  "page_url": "canada",
+  "page_image_tag": "canada ",
+  "title": "University of Toronto",
+  "page_content": "<p>The University of Toronto is Canada’s largest and one of its most respected universities, with over 100,000 students spread across three campuses in Ontario. It offers more than 700 undergraduate programs and over 200 graduate programs, and is especially known for strong research output, excellent faculty, and a rich academic environment. U of T has made major contributions to science and society — for example, insulin was discovered there, and it has been a leader in artificial intelligence, mathematical theory, medical research, and more.</p>",
+  "image": "1757936641177-503565527.jpg",
+  "name": "University of Toronto",
+  "location": "Toronto, ON",
+  "ranking": "QS Ranking 29th",
+  "description": "The University of Toronto is Canada’s largest and one of its most respected universities, with over 100,000 students spread across three campuses in Ontario. It offers more than 700 undergraduate programs and over 200 graduate programs, and is especially known for strong research output, excellent faculty, and a rich academic environment. U of T has made major contributions to science and society — for example, insulin was discovered there, and it has been a leader in artificial intelligence, mathematical theory, medical research, and more.",
+  "highlights": [
+    "Very strong research university",
+    "diverse student body."
+  ],
+  "tuitionRange": "$40,000–$60,000 CAD",
+  "popularPrograms": [
+    "Medicine",
+    "Engineering",
+    "BusinessCS",
+    "Life Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T11:44:01.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T11:44:01.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7fd8f4ff490389edf8135"
+  },
+  "meta_title": "McGill University",
+  "meta_keywords": "McGill University",
+  "meta_description": "McGill University is a public research university in Montreal, Quebec, founded in 1821. \r\nMcGill University It is one of Canada’s best-known universities, attracting students from over 150 countries, with nearly 30% international students—one of the highest percentages among Canadian research universities. ",
+  "category": "68c7e3df4ff490389edf8098",
+  "page_url": "canada",
+  "page_image_tag": "canada",
+  "title": "McGill University",
+  "page_content": "<p>McGill University is a public research university in Montreal, Quebec, founded in 1821.&nbsp;<br>McGill University It is one of Canada’s best-known universities, attracting students from over 150 countries, with nearly 30% international students—one of the highest percentages among Canadian research universities.&nbsp;<br>McGill offers many programs (over 300 fields) in faculties like Arts, Science, Engineering, Medicine, Education, and Management. The university is known for strong teaching, high research output, innovation (for example, discoveries in radioactivity, artificial blood cells, etc.), and getting many national/international awards among students and faculty</p>",
+  "image": "1757937039880-389202209.jpg",
+  "name": "McGill University",
+  "location": "Montreal, QC",
+  "ranking": "QS Ranking 27th ",
+  "description": "McGill University is a public research university in Montreal, Quebec, founded in 1821. \r\nMcGill University It is one of Canada’s best-known universities, attracting students from over 150 countries, with nearly 30% international students—one of the highest percentages among Canadian research universities. ",
+  "highlights": [
+    "Globally recognized",
+    "bilingual city",
+    "strong academic reputation"
+  ],
+  "tuitionRange": "$30,000–$50,000 CAD",
+  "popularPrograms": [
+    "Medicine",
+    "Arts and Science",
+    "Engineering"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T11:50:39.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T11:50:39.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c7ff7c4ff490389edf8143"
+  },
+  "meta_title": "University of British Columbia (UBC)",
+  "meta_keywords": "University of British Columbia (UBC)",
+  "meta_description": "The University of British Columbia (UBC) is a public research university in Canada with two main campuses in Vancouver and Kelowna, known for excellence in teaching and research. Established in 1908, UBC hosts over 72,000 students and a global alumni network of more than 399,000 individuals. The university is ranked among the top public universities globally and offers a wide range of academic programs at both the undergraduate and graduate levels. ",
+  "category": "68c7e3df4ff490389edf8098",
+  "page_url": "canada ",
+  "page_image_tag": "canada ",
+  "title": "University of British Columbia (UBC)",
+  "page_content": "<p>McGill University is a public research university in Montreal, Quebec, founded in 1821.&nbsp;<br>McGill University It is one of Canada’s best-known universities, attracting students from over 150 countries, with nearly 30% international students—one of the highest percentages among Canadian research universities.&nbsp;<br>McGill offers many programs (over 300 fields) in faculties like Arts, Science, Engineering, Medicine, Education, and Management. The university is known for strong teaching, high research output, innovation (for example, discoveries in radioactivity, artificial blood cells, etc.), and getting many national/international awards among students and faculty.</p>",
+  "image": "1757937532409-197022297.jpg",
+  "name": "University of British Columbia (UBC)",
+  "location": "Vancouver, BC",
+  "ranking": "QS Ranking 40th",
+  "description": "The University of British Columbia (UBC) is a public research university in Canada with two main campuses in Vancouver and Kelowna, known for excellence in teaching and research. Established in 1908, UBC hosts over 72,000 students and a global alumni network of more than 399,000 individuals. The university is ranked among the top public universities globally and offers a wide range of academic programs at both the undergraduate and graduate levels. ",
+  "highlights": [
+    "Beautiful location",
+    "strong in sustainability",
+    "environment"
+  ],
+  "tuitionRange": "$40,000–55,000 CAD",
+  "popularPrograms": [
+    "Forestry",
+    "Environmental Sciences",
+    "Engineering, Arts"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T11:58:52.417Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T11:58:52.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c8019d4ff490389edf8145"
+  },
+  "meta_title": "University of Waterloo",
+  "meta_keywords": "University of Waterloo",
+  "meta_description": "The University of Waterloo is a Canadian public research university, founded in 1957, known for its innovative programs, entrepreneurship, and world-leading co-operative (co-op) education system. It offers over 100 undergraduate programs across its six faculties: Applied Health Sciences, Arts, Engineering, Environment, Mathematics, and Science. The main campus is in Waterloo, Ontario, about 110 km west of Toronto, and the university is recognized for its strengths in engineering, mathematics, quantum computing, and nanotechnology. ",
+  "category": "68c7e3df4ff490389edf8098",
+  "page_url": "canada ",
+  "page_image_tag": "canada ",
+  "title": "University of Waterloo",
+  "page_content": "<p>The University of Waterloo is a Canadian public research university, founded in 1957, known for its innovative programs, entrepreneurship, and world-leading co-operative (co-op) education system. It offers over 100 undergraduate programs across its six faculties: Applied Health Sciences, Arts, Engineering, Environment, Mathematics, and Science. The main campus is in Waterloo, Ontario, about 110 km west of Toronto, and the university is recognized for its strengths in engineering, mathematics, quantum computing, and nanotechnology.&nbsp;</p>",
+  "image": "1757938077473-156540180.jpg",
+  "name": "University of Waterloo",
+  "location": "Waterloo, ON",
+  "ranking": "QS Ranking 115th ",
+  "description": "The University of Waterloo is a Canadian public research university, founded in 1957, known for its innovative programs, entrepreneurship, and world-leading co-operative (co-op) education system. It offers over 100 undergraduate programs across its six faculties: Applied Health Sciences, Arts, Engineering, Environment, Mathematics, and Science. The main campus is in Waterloo, Ontario, about 110 km west of Toronto, and the university is recognized for its strengths in engineering, mathematics, quantum computing, and nanotechnology. ",
+  "highlights": [
+    "Very strong in CS/IT",
+    "good industry internships"
+  ],
+  "tuitionRange": "$9,000 to $18,000 CAD",
+  "popularPrograms": [
+    "Computer Science",
+    "Engineering",
+    "Math",
+    "Engineering"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T12:07:57.482Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T12:07:57.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c8045f4ff490389edf814b"
+  },
+  "meta_title": "University of Alberta",
+  "meta_keywords": "University of Alberta",
+  "meta_description": "The University of Alberta (U of A) is a top-tier Canadian research university located in Edmonton, offering over 200 undergraduate programs and world-class graduate studies. It is consistently ranked among Canada's top universities and within the global top 100, recognized for its excellent research and high graduate employability. The campus features a mix of historic and modern buildings, ample green spaces, and is situated on the edge of the North Saskatchewan River valley",
+  "category": "68c7e3df4ff490389edf8098",
+  "page_url": "canada ",
+  "page_image_tag": "canada",
+  "title": "University of Alberta",
+  "page_content": "<p>The University of Alberta (U of A) is a top-tier Canadian research university located in Edmonton, offering over 200 undergraduate programs and world-class graduate studies. It is consistently ranked among Canada's top universities and within the global top 100, recognized for its excellent research and high graduate employability. The campus features a mix of historic and modern buildings, ample green spaces, and is situated on the edge of the North Saskatchewan River valley.</p>",
+  "image": "1757938783910-335306705.jpg",
+  "name": "University of Alberta",
+  "location": "Edmonton, Alberta",
+  "ranking": "QS Ranking 94th",
+  "description": "The University of Alberta (U of A) is a top-tier Canadian research university located in Edmonton, offering over 200 undergraduate programs and world-class graduate studies. It is consistently ranked among Canada's top universities and within the global top 100, recognized for its excellent research and high graduate employability. The campus features a mix of historic and modern buildings, ample green spaces, and is situated on the edge of the North Saskatchewan River valley",
+  "highlights": [
+    "research programs",
+    "faculty",
+    "strong network"
+  ],
+  "tuitionRange": "$35,000–$45,000 CAD",
+  "popularPrograms": [
+    "Engineering",
+    "Earth & Environmental Sciences",
+    "Agriculture",
+    "Life Sciences",
+    "strong in energy",
+    "oil & gas"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T12:19:43.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T12:19:43.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c806b94ff490389edf814d"
+  },
+  "meta_title": "Western University",
+  "meta_keywords": "Western University",
+  "meta_description": "Western University (officially the University of Western Ontario) is a public research university in London, Ontario, Canada, established in 1878. It is known for its academic excellence and strong programs in areas like health sciences, business, and engineering. Offering a wide range of undergraduate and graduate programs, Western emphasizes research, critical thinking, and a diverse, inclusive campus community. \r\n",
+  "category": "68c7e3df4ff490389edf8098",
+  "page_url": "canada ",
+  "page_image_tag": "canada",
+  "title": "Western University",
+  "page_content": "<p>Western University (officially the University of Western Ontario) is a public research university in London, Ontario, Canada, established in 1878. It is known for its academic excellence and strong programs in areas like health sciences, business, and engineering. Offering a wide range of undergraduate and graduate programs, Western emphasizes research, critical thinking, and a diverse, inclusive campus community.&nbsp;<br>&nbsp;</p>",
+  "image": "1757939385508-894630796.jpg",
+  "name": "Western University",
+  "location": "London, Ontario",
+  "ranking": "QS Ranking 151th ",
+  "description": "Western University (officially the University of Western Ontario) is a public research university in London, Ontario, Canada, established in 1878. It is known for its academic excellence and strong programs in areas like health sciences, business, and engineering. Offering a wide range of undergraduate and graduate programs, Western emphasizes research, critical thinking, and a diverse, inclusive campus community. \r\n",
+  "highlights": [
+    "Western emphasizes research",
+    "critical thinking",
+    "inclusive campus community"
+  ],
+  "tuitionRange": "$30,000–$450,000 CAD",
+  "popularPrograms": [
+    "Business",
+    "Social Sciences",
+    "Health Sciences",
+    "Law",
+    "good reputation in business",
+    "leadership programs"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T12:29:45.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T12:29:45.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c80b104ff490389edf8171"
+  },
+  "meta_title": "University of Oxford",
+  "meta_keywords": "University of Oxford",
+  "meta_description": "The University of Oxford, located in Oxford, England, is one of the oldest and most prestigious universities in the world. It is famous for its high-quality teaching and world-class research, combining rich history and tradition with modern innovation. Oxford has many colleges, excellent libraries and museums, and strong programs across humanities, sciences, social sciences, medicine and more. Students are often taught in small groups (tutorials), which gives a personalized learning experience.",
+  "category": "68c7e4334ff490389edf809a",
+  "page_url": "UK",
+  "page_image_tag": "UK",
+  "title": "University of Oxford",
+  "page_content": "<p>The University of Oxford, located in Oxford, England, is one of the oldest and most prestigious universities in the world. It is famous for its high-quality teaching and world-class research, combining rich history and tradition with modern innovation. Oxford has many colleges, excellent libraries and museums, and strong programs across humanities, sciences, social sciences, medicine and more. Students are often taught in small groups (tutorials), which gives a personalized learning experience.</p>",
+  "image": "1757940496066-831201574.jpg",
+  "name": "University of Oxford",
+  "location": "Oxford",
+  "ranking": "QS Ranking 3rd ",
+  "description": "The University of Oxford, located in Oxford, England, is one of the oldest and most prestigious universities in the world. It is famous for its high-quality teaching and world-class research, combining rich history and tradition with modern innovation. Oxford has many colleges, excellent libraries and museums, and strong programs across humanities, sciences, social sciences, medicine and more. Students are often taught in small groups (tutorials), which gives a personalized learning experience.",
+  "highlights": [
+    "One of oldest",
+    "huge global reputation",
+    "tutorial system"
+  ],
+  "tuitionRange": "~£30,000-£40,000",
+  "popularPrograms": [
+    "PPE",
+    "Law",
+    "Engineering",
+    "Medicine",
+    "Humanities"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T12:48:16.079Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T12:48:16.079Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c80daa4ff490389edf8173"
+  },
+  "meta_title": "University of Cambridge",
+  "meta_keywords": "University of Cambridge",
+  "meta_description": "The University of Cambridge was founded in 1209, making it one of the oldest universities in the world. It has 31 colleges, about 25,000 students (undergrad + postgrad), and more than 150 academic departments across six schools. Teaching is often in small groups (“supervisions”), which gives students close contact with tutors. Cambridge is known for its strong research output, history of scientific breakthroughs, and very high academic reputation.",
+  "category": "68c7e4334ff490389edf809a",
+  "page_url": "uk",
+  "page_image_tag": "uk",
+  "title": "University of Cambridge",
+  "page_content": "<p>The University of Cambridge was founded in 1209, making it one of the oldest universities in the world. It has 31 colleges, about 25,000 students (undergrad + postgrad), and more than 150 academic departments across six schools. Teaching is often in small groups (“supervisions”), which gives students close contact with tutors. Cambridge is known for its strong research output, history of scientific breakthroughs, and very high academic reputation.</p>",
+  "image": "1757941162059-233002115.jpg",
+  "name": "University of Cambridge",
+  "location": "Cambridge",
+  "ranking": "QS Ranking 6th",
+  "description": "The University of Cambridge was founded in 1209, making it one of the oldest universities in the world. It has 31 colleges, about 25,000 students (undergrad + postgrad), and more than 150 academic departments across six schools. Teaching is often in small groups (“supervisions”), which gives students close contact with tutors. Cambridge is known for its strong research output, history of scientific breakthroughs, and very high academic reputation.",
+  "highlights": [
+    "Very rigorous",
+    "strong research",
+    "good placements"
+  ],
+  "tuitionRange": "£30,000-£40,000",
+  "popularPrograms": [
+    "Engineering",
+    "Maths",
+    "Natural Sciences",
+    "Humanities"
+  ],
+  "createdAt": {
+    "$date": "2025-09-15T12:59:22.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-15T12:59:22.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c93ff74ff490389edf829a"
+  },
+  "meta_title": "Technical university of munich",
+  "meta_keywords": "Technical university of munich",
+  "meta_description": "\r\nTechnical University of Munich | Benefits | Courses ...The Technical University of Munich (TUM), founded in 1868, is a leading German public research university specializing in engineering, technology, medicine, and natural sciences, with a strong focus on innovation and entrepreneurship. Known as \"The Entrepreneurial University,\" it has numerous campuses in Germany and international branches, offers diverse degree programs, including English-taught options, and holds a strong reputation, having produced Nobel Prize winners and being a member of the TU9 network. ",
+  "category": "68c7e4c24ff490389edf809e",
+  "page_url": "GERMANY",
+  "page_image_tag": "GERMANY ",
+  "title": "Germany ",
+  "page_content": "<p>The Technical University of Munich (TUM), founded in 1868, is a leading German public research university specializing in engineering, technology, medicine, and natural sciences, with a strong focus on innovation and entrepreneurship. Known as \"The Entrepreneurial University,\" it has numerous campuses in Germany and international branches, offers diverse degree programs, including English-taught options, and holds a strong reputation, having produced Nobel Prize winners and being a member of the TU9 network.&nbsp;</p>",
+  "image": "1758019575337-600710215.jpg",
+  "name": "Technical university of munich",
+  "location": "Munich, Bavaria",
+  "ranking": "QS Ranking 22th",
+  "description": "\r\nTechnical University of Munich | Benefits | Courses ...The Technical University of Munich (TUM), founded in 1868, is a leading German public research university specializing in engineering, technology, medicine, and natural sciences, with a strong focus on innovation and entrepreneurship. Known as \"The Entrepreneurial University,\" it has numerous campuses in Germany and international branches, offers diverse degree programs, including English-taught options, and holds a strong reputation, having produced Nobel Prize winners and being a member of the TU9 network. ",
+  "highlights": [
+    "strong in research",
+    "excellent industry",
+    "good international reputation"
+  ],
+  "tuitionRange": "Fees Nil ",
+  "popularPrograms": [
+    "Engineering",
+    "Computer Science",
+    "Data Science",
+    "Natural Sciences",
+    "AI"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T10:46:15.348Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T10:46:15.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c942474ff490389edf82a2"
+  },
+  "meta_title": "Ludwig-Maximilians-Universität München",
+  "meta_keywords": "Ludwig-Maximilians-Universität München",
+  "meta_description": "Ludwig Maximilian University: 2026 Rankings, Acceptance Rate ...Ludwig-Maximilians-Universität München (LMU) is a historic public research university in Munich, Germany, founded in 1472 and consistently ranked among Europe's top institutions for its excellence in humanities, natural sciences, medicine, social sciences, and law. LMU is known for its strong commitment to international standards of research and teaching, with no tuition fees for its academic programs, and offers a wide range of programs, including many taught in English. ",
+  "category": "68c7e4c24ff490389edf809e",
+  "page_url": "germany",
+  "page_image_tag": "germany ",
+  "title": "Ludwig-Maximilians-Universität München",
+  "page_content": "<p>Ludwig Maximilian University: 2026 Rankings, Acceptance Rate ...Ludwig-Maximilians-Universität München (LMU) is a historic public research university in Munich, Germany, founded in 1472 and consistently ranked among Europe's top institutions for its excellence in humanities, natural sciences, medicine, social sciences, and law. LMU is known for its strong commitment to international standards of research and teaching, with no tuition fees for its academic programs, and offers a wide range of programs, including many taught in English.&nbsp;</p>",
+  "image": "1758020167222-363897356.jpg",
+  "name": "Ludwig-Maximilians-Universität München",
+  "location": "Munich",
+  "ranking": "QS Ranking 59",
+  "description": "\r\nLudwig Maximilian University: 2026 Rankings, Acceptance Rate ...Ludwig-Maximilians-Universität München (LMU) is a historic public research university in Munich, Germany, founded in 1472 and consistently ranked among Europe's top institutions for its excellence in humanities, natural sciences, medicine, social sciences, and law. LMU is known for its strong commitment to international standards of research and teaching, with no tuition fees for its academic programs, and offers a wide range of programs, including many taught in English. ",
+  "highlights": [
+    "Strong teaching",
+    "broad range of subjects",
+    "prestige globally",
+    "Very good options in humanities"
+  ],
+  "tuitionRange": "Fees Nil",
+  "popularPrograms": [
+    "Life Sciences",
+    "Medicine",
+    "Arts",
+    "Social Sciences",
+    "Humanities"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T10:56:07.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T10:56:07.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c9435a4ff490389edf82a4"
+  },
+  "meta_title": "Heidelberg University",
+  "meta_keywords": "Heidelberg University",
+  "meta_description": "Heidelberg University is Germany's oldest university, founded in 1386, known for academic excellence across various disciplines including life sciences, humanities, law, and social sciences, with over 180 degree programs, some of which are taught in English. The university offers Bachelor's and Master's programs and is a major European research institution, collaborating with various research centers in the city, and is also ranked among the top universities globally. ",
+  "category": "68c7e4c24ff490389edf809e",
+  "page_url": "germany ",
+  "page_image_tag": "germany ",
+  "title": "Heidelberg University",
+  "page_content": "<p>Heidelberg University is Germany's oldest university, founded in 1386, known for academic excellence across various disciplines including life sciences, humanities, law, and social sciences, with over 180 degree programs, some of which are taught in English. The university offers Bachelor's and Master's programs and is a major European research institution, collaborating with various research centers in the city, and is also ranked among the top universities globally.&nbsp;</p>",
+  "image": "1758020442475-224692822.jpg",
+  "name": "Heidelberg University",
+  "location": "Heidelberg, Baden-Württemberg",
+  "ranking": "QS Ranking 84th",
+  "description": "Heidelberg University is Germany's oldest university, founded in 1386, known for academic excellence across various disciplines including life sciences, humanities, law, and social sciences, with over 180 degree programs, some of which are taught in English. The university offers Bachelor's and Master's programs and is a major European research institution, collaborating with various research centers in the city, and is also ranked among the top universities globally. ",
+  "highlights": [
+    "Very old and prestigious",
+    "strong research background",
+    "beautiful campus & city"
+  ],
+  "tuitionRange": "Fees Nil ",
+  "popularPrograms": [
+    "Medicine",
+    "Life & Natural Sciences",
+    "Research in Biology",
+    "Chemistry"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T11:00:42.492Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T11:00:42.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c944664ff490389edf82a6"
+  },
+  "meta_title": "RWTH Aachen University",
+  "meta_keywords": "RWTH Aachen University",
+  "meta_description": "RWTH Aachen University, located in Germany, is a leading public technical university known for its engineering and natural sciences programs, with a strong emphasis on research and industry connections. It's the largest technical university in Germany and a renowned institution in Europe, offering a wide range of disciplines across nine faculties. The university has a reputation for producing highly qualified graduates and boasts strong ties with industry, fostering a European equivalent of Silicon Valley. ",
+  "category": "68c7e4c24ff490389edf809e",
+  "page_url": "germany ",
+  "page_image_tag": "germany",
+  "title": "RWTH Aachen University",
+  "page_content": "<p>RWTH Aachen University, located in Germany, is a leading public technical university known for its engineering and natural sciences programs, with a strong emphasis on research and industry connections. It's the largest technical university in Germany and a renowned institution in Europe, offering a wide range of disciplines across nine faculties. The university has a reputation for producing highly qualified graduates and boasts strong ties with industry, fostering a European equivalent of Silicon Valley.&nbsp;</p>",
+  "image": "1758020710754-364967146.jpg",
+  "name": "RWTH Aachen University",
+  "location": "Aachen, North Rhine-Westphalia",
+  "ranking": "QS Ranking 99th",
+  "description": "RWTH Aachen University, located in Germany, is a leading public technical university known for its engineering and natural sciences programs, with a strong emphasis on research and industry connections. It's the largest technical university in Germany and a renowned institution in Europe, offering a wide range of disciplines across nine faculties. The university has a reputation for producing highly qualified graduates and boasts strong ties with industry, fostering a European equivalent of Silicon Valley. ",
+  "highlights": [
+    "A powerhouse for engineering & technology",
+    "strong links with industry",
+    "lots of research funding"
+  ],
+  "tuitionRange": "Fees Nil",
+  "popularPrograms": [
+    "Engineering",
+    "Computer Science",
+    "Materials Science",
+    "Architecture",
+    "Industrial"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T11:05:10.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T11:05:10.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c946524ff490389edf82ac"
+  },
+  "meta_title": "Karlsruhe Institute of Technology",
+  "meta_keywords": "Karlsruhe Institute of Technology",
+  "meta_description": "The Karlsruhe Institute of Technology (KIT) is a public German research university in Karlsruhe, founded in 2009, known for its focus on STEM fields, particularly energy, mobility, and information. KIT is one of the largest research and education institutions worldwide, recognized for its comprehensive scientific education, cutting-edge research, and unique combination of university and national large-scale research infrastructure. \r\n",
+  "category": "68c7e4c24ff490389edf809e",
+  "page_url": "germany",
+  "page_image_tag": "germany",
+  "title": "Karlsruhe Institute of Technology",
+  "page_content": "<p>The Karlsruhe Institute of Technology (KIT) is a public German research university in Karlsruhe, founded in 2009, known for its focus on STEM fields, particularly energy, mobility, and information. KIT is one of the largest research and education institutions worldwide, recognized for its comprehensive scientific education, cutting-edge research, and unique combination of university and national large-scale research infrastructure.&nbsp;</p><p><br>&nbsp;</p>",
+  "image": "1758021202277-44057075.jpg",
+  "name": "Karlsruhe Institute of Technology",
+  "location": "Karlsruhe, Baden-Württemberg",
+  "ranking": "QS Ranking 98th",
+  "description": "The Karlsruhe Institute of Technology (KIT) is a public German research university in Karlsruhe, founded in 2009, known for its focus on STEM fields, particularly energy, mobility, and information. KIT is one of the largest research and education institutions worldwide, recognized for its comprehensive scientific education, cutting-edge research, and unique combination of university and national large-scale research infrastructure. \r\n",
+  "highlights": [
+    "Excellent reputation in tech",
+    "strong graduate employability",
+    "research institutes"
+  ],
+  "tuitionRange": "€3,000 - €4,000 Euro",
+  "popularPrograms": [
+    "Computer Science",
+    "Information Systems Engineering",
+    "Mechanical Engineering",
+    "Natural Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T11:13:22.295Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T11:13:22.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c947b44ff490389edf82ae"
+  },
+  "meta_title": "Free University of Berlin",
+  "meta_keywords": "Free University of Berlin",
+  "meta_description": "The Freie Universität Berlin (FUB) is a leading, internationally-oriented German research university founded in 1948. It is known for its numerous degree programs in various fields, particularly its strengths in humanities and political science. FUB is one of Germany's Universities of Excellence, emphasizing interdisciplinary work, international partnerships, and a commitment to social responsibility. ",
+  "category": "68c7e4c24ff490389edf809e",
+  "page_url": "germany",
+  "page_image_tag": "germany",
+  "title": "Free University of Berlin",
+  "page_content": "<p>The Freie Universität Berlin (FUB) is a leading, internationally-oriented German research university founded in 1948. It is known for its numerous degree programs in various fields, particularly its strengths in humanities and political science. FUB is one of Germany's Universities of Excellence, emphasizing interdisciplinary work, international partnerships, and a commitment to social responsibility.&nbsp;</p>",
+  "image": "1758021556486-430095476.jpg",
+  "name": "Free University of Berlin",
+  "location": "Berlin",
+  "ranking": "QS Ranking 97th",
+  "description": "The Freie Universität Berlin (FUB) is a leading, internationally-oriented German research university founded in 1948. It is known for its numerous degree programs in various fields, particularly its strengths in humanities and political science. FUB is one of Germany's Universities of Excellence, emphasizing interdisciplinary work, international partnerships, and a commitment to social responsibility. ",
+  "highlights": [
+    "Very international",
+    "vibrant capital city",
+    "English-taught options"
+  ],
+  "tuitionRange": "Fees Nil",
+  "popularPrograms": [
+    "Social Sciences",
+    "Humanities",
+    "Law, Political Science",
+    "Economics"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T11:19:16.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T11:19:16.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c94a574ff490389edf82b4"
+  },
+  "meta_title": "University of Auckland",
+  "meta_keywords": "University of Auckland",
+  "meta_description": "The University of Auckland is New Zealand's largest, highest-ranked, and most comprehensive university, known for its research and innovation and offering over 300 courses in fields like computer science, engineering, and medicine.",
+  "category": "68c7e56d4ff490389edf80aa",
+  "page_url": "new zealand ",
+  "page_image_tag": "new zealand ",
+  "title": "University of Auckland",
+  "page_content": "<p>The University of Auckland is New Zealand's largest, highest-ranked, and most comprehensive university, known for its research and innovation and offering over 300 courses in fields like computer science, engineering, and medicine.</p>",
+  "image": "1758022231509-702705026.jpg",
+  "name": "University of Auckland",
+  "location": "Auckland ",
+  "ranking": "QS Ranking 65th",
+  "description": "The University of Auckland is New Zealand's largest, highest-ranked, and most comprehensive university, known for its research and innovation and offering over 300 courses in fields like computer science, engineering, and medicine.",
+  "highlights": [
+    "strong research output",
+    "diverse student body",
+    "good global reputation",
+    "top 50 globally."
+  ],
+  "tuitionRange": "NZD ~ 45,000-55,000",
+  "popularPrograms": [
+    "Computer Science",
+    "Business",
+    "Biological Sciences",
+    "Psychology",
+    "Engineering"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T11:30:31.522Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T11:30:31.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c94bea4ff490389edf82bc"
+  },
+  "meta_title": "University of Otago",
+  "meta_keywords": "University of Otago",
+  "meta_description": "The University of Otago, founded in 1869, is New Zealand's first university, recognized for its research-led excellence and world-class academics. Located in Dunedin, the university is known for its beautiful campus, historic architecture, and iconic clock tower, offering a vibrant, balanced student lifestyle. It boasts high graduate employability, with 95% of graduates entering work or further study, and holds top rankings for educational performance and international student learning. ",
+  "category": "68c7e56d4ff490389edf80aa",
+  "page_url": "newzealand ",
+  "page_image_tag": "new zealand ",
+  "title": "University of Otago",
+  "page_content": "<p>The University of Otago, founded in 1869, is New Zealand's first university, recognized for its research-led excellence and world-class academics. Located in Dunedin, the university is known for its beautiful campus, historic architecture, and iconic clock tower, offering a vibrant, balanced student lifestyle. It boasts high graduate employability, with 95% of graduates entering work or further study, and holds top rankings for educational performance and international student learning.&nbsp;</p>",
+  "image": "1758022634863-602669808.jpg",
+  "name": "University of Otago",
+  "location": "Dunedin",
+  "ranking": "QS Ranking 197th",
+  "description": "The University of Otago, founded in 1869, is New Zealand's first university, recognized for its research-led excellence and world-class academics. Located in Dunedin, the university is known for its beautiful campus, historic architecture, and iconic clock tower, offering a vibrant, balanced student lifestyle. It boasts high graduate employability, with 95% of graduates entering work or further study, and holds top rankings for educational performance and international student learning. ",
+  "highlights": [
+    "Oldest in NZ",
+    "strong in clinical",
+    "health disciplines",
+    "good international student support"
+  ],
+  "tuitionRange": "NZD 25,000-40,000",
+  "popularPrograms": [
+    "Health Sciences",
+    "Nursing",
+    "Biological Sciences",
+    "Psychology",
+    "Social Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T11:37:14.871Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T11:37:14.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c950234ff490389edf82c2"
+  },
+  "meta_title": "Massey University",
+  "meta_keywords": "Massey University",
+  "meta_description": "\r\nMassey University - Study And Work AbroadMassey University is a public research university in New Zealand with campuses in Auckland, Palmerston North, and Wellington, offering internal and distance education programs. Established in 1927, it is known for academic leadership, innovative teaching, and a wide range of undergraduate and postgraduate degrees across its colleges of Health, Business, Creative Arts, and Humanities & Social Sciences.",
+  "category": "68c7e56d4ff490389edf80aa",
+  "page_url": "new zealand ",
+  "page_image_tag": "newzealand ",
+  "title": "Massey University",
+  "page_content": "<p>&nbsp;</p><p>Massey University is a public research university in New Zealand with campuses in Auckland, Palmerston North, and Wellington, offering internal and distance education programs. Established in 1927, it is known for academic leadership, innovative teaching, and a wide range of undergraduate and postgraduate degrees across its colleges of Health, Business, Creative Arts, and Humanities &amp; Social Sciences.</p>",
+  "image": "1758023715588-185706734.jpg",
+  "name": "Massey University",
+  "location": "Palmerston North, Wellington",
+  "ranking": "QS Ranking 230th",
+  "description": "\r\nMassey University - Study And Work AbroadMassey University is a public research university in New Zealand with campuses in Auckland, Palmerston North, and Wellington, offering internal and distance education programs. Established in 1927, it is known for academic leadership, innovative teaching, and a wide range of undergraduate and postgraduate degrees across its colleges of Health, Business, Creative Arts, and Humanities & Social Sciences.",
+  "highlights": [
+    "environment",
+    "agriculture",
+    "growing ranking"
+  ],
+  "tuitionRange": "NZD 25,000 - 35,000",
+  "popularPrograms": [
+    "Agriculture & Forestry",
+    "Veterinary Science",
+    "Art & Design",
+    "Nursing",
+    "Development Studies"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T11:55:15.595Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T11:55:15.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c952b14ff490389edf82c6"
+  },
+  "meta_title": "Victoria University of Wellington",
+  "meta_keywords": "Victoria University of Wellington",
+  "meta_description": "\r\nStudy at Victoria University of Wellington New Zealand - ILW ...Victoria University of Wellington (Te Herenga Waka) is a public research university in Wellington, New Zealand, founded in 1897, known for its strong focus on research, high-quality education, and global civic engagement. It offers nearly 200 programs across various faculties, ranks among the world's top universities, and has strong connections to Wellington's government, business, and creative industries. ",
+  "category": "68c7e56d4ff490389edf80aa",
+  "page_url": "Newzealand ",
+  "page_image_tag": "new zealand ",
+  "title": "Victoria University of Wellington",
+  "page_content": "<p>&nbsp;</p><p>Victoria University of Wellington (Te Herenga Waka) is a public research university in Wellington, New Zealand, founded in 1897, known for its strong focus on research, high-quality education, and global civic engagement. It offers nearly 200 programs across various faculties, ranks among the world's top universities, and has strong connections to Wellington's government, business, and creative industries.</p>",
+  "image": "1758024369764-198172803.jpg",
+  "name": "Victoria University of Wellington",
+  "location": "Wellington",
+  "ranking": "QS Ranking 240",
+  "description": "\r\nStudy at Victoria University of Wellington New Zealand - ILW ...Victoria University of Wellington (Te Herenga Waka) is a public research university in Wellington, New Zealand, founded in 1897, known for its strong focus on research, high-quality education, and global civic engagement. It offers nearly 200 programs across various faculties, ranks among the world's top universities, and has strong connections to Wellington's government, business, and creative industries. ",
+  "highlights": [
+    "opportunities in government",
+    "public sector",
+    "strong in research and humanities",
+    "good international outlook"
+  ],
+  "tuitionRange": "NZD 33,000 - 43,000",
+  "popularPrograms": [
+    "Humanities",
+    "Arts",
+    "Public Policy",
+    "Law",
+    "Psychology",
+    "Social Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T12:06:09.778Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T12:06:09.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c954894ff490389edf82c8"
+  },
+  "meta_title": "University of Canterbury",
+  "meta_keywords": "University of Canterbury",
+  "meta_description": "The University of Canterbury (UC) is a public research university located in Christchurch, New Zealand, recognized as one of the world's top 2% of universities. It offers over 120 qualifications across more than 150 subjects for undergraduate, graduate, and postgraduate studies, and is known for its high-quality, research-led teaching and state-of-the-art facilities. ",
+  "category": "68c7e56d4ff490389edf80aa",
+  "page_url": "new zealand ",
+  "page_image_tag": "newzealand ",
+  "title": "University of Canterbury",
+  "page_content": "<p>The University of Canterbury (UC) is a public research university located in Christchurch, New Zealand, recognized as one of the world's top 2% of universities. It offers over 120 qualifications across more than 150 subjects for undergraduate, graduate, and postgraduate studies, and is known for its high-quality, research-led teaching and state-of-the-art facilities.&nbsp;</p>",
+  "image": "1758024841284-433260816.jpg",
+  "name": "University of Canterbury",
+  "location": "Christchurch",
+  "ranking": "QS Ranking 261th",
+  "description": "The University of Canterbury (UC) is a public research university located in Christchurch, New Zealand, recognized as one of the world's top 2% of universities. It offers over 120 qualifications across more than 150 subjects for undergraduate, graduate, and postgraduate studies, and is known for its high-quality, research-led teaching and state-of-the-art facilities. ",
+  "highlights": [
+    "strong engineering",
+    "good balance between cost & quality",
+    "campus/community"
+  ],
+  "tuitionRange": "NZD 30,000s to 40,000",
+  "popularPrograms": [
+    "Civil & Structural Engineering",
+    "Geography",
+    "Education",
+    "Arts & Humanities",
+    "Science"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T12:14:01.340Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T12:14:01.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c956484ff490389edf82ca"
+  },
+  "meta_title": "University of waikato",
+  "meta_keywords": "University of waikato",
+  "meta_description": "The University of Waikato is a top New Zealand public research university founded in 1964, located on two campuses in Hamilton and Tauranga. It's recognized globally, ranked among the top universities in the world and #1 in New Zealand for research. The university features strong research in areas like sustainability and AI, a compulsory work-integrated learning program for undergraduates, and a diverse community of over 13,000 students from many nationalities. ",
+  "category": "68c7e56d4ff490389edf80aa",
+  "page_url": "newzealand ",
+  "page_image_tag": "new zealand ",
+  "title": "University of waikato",
+  "page_content": "<p>The University of Waikato is a top New Zealand public research university founded in 1964, located on two campuses in Hamilton and Tauranga. It's recognized globally, ranked among the top universities in the world and #1 in New Zealand for research. The university features strong research in areas like sustainability and AI, a compulsory work-integrated learning program for undergraduates, and a diverse community of over 13,000 students from many nationalities.&nbsp;</p>",
+  "image": "1758025288669-964554342.jpg",
+  "name": "University of waikato",
+  "location": "Hamilton and Tauranga ",
+  "ranking": "QS Ranking 281th",
+  "description": "The University of Waikato is a top New Zealand public research university founded in 1964, located on two campuses in Hamilton and Tauranga. It's recognized globally, ranked among the top universities in the world and #1 in New Zealand for research. The university features strong research in areas like sustainability and AI, a compulsory work-integrated learning program for undergraduates, and a diverse community of over 13,000 students from many nationalities. ",
+  "highlights": [
+    "good student-faculty ratios",
+    "more affordable than top-tier NZ universities",
+    "good scholarship options"
+  ],
+  "tuitionRange": "NZD ~ 30,000-50,000",
+  "popularPrograms": [
+    "Business & Management",
+    "Computer Science",
+    "Engineering",
+    "Environmental Science"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T12:21:28.682Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T12:21:28.682Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c961384ff490389edf835b"
+  },
+  "meta_title": "Imperial College London",
+  "meta_keywords": "Imperial College London",
+  "meta_description": "Imperial College London is a public university founded in 1907, specializing in science, technology, engineering, medicine, and business (STEMB). It is recognized as a world-leading institution for high-impact research, addressing global challenges like climate change and health. The university offers a wide range of courses, with a strong focus on practical innovation and application, and holds several top global rankings for its academic excellence and graduate employability. ",
+  "category": "68c80e9b4ff490389edf817d",
+  "page_url": "uk",
+  "page_image_tag": "uk",
+  "title": "UK",
+  "page_content": "<p>Imperial College London is a public university founded in 1907, specializing in science, technology, engineering, medicine, and business (STEMB). It is recognized as a world-leading institution for high-impact research, addressing global challenges like climate change and health. The university offers a wide range of courses, with a strong focus on practical innovation and application, and holds several top global rankings for its academic excellence and graduate employability.&nbsp;</p>",
+  "image": "1758028088726-887453243.jpg",
+  "name": "Imperial College London",
+  "location": "London",
+  "ranking": "QS Ranking 2nd ",
+  "description": "Imperial College London is a public university founded in 1907, specializing in science, technology, engineering, medicine, and business (STEMB). It is recognized as a world-leading institution for high-impact research, addressing global challenges like climate change and health. The university offers a wide range of courses, with a strong focus on practical innovation and application, and holds several top global rankings for its academic excellence and graduate employability. ",
+  "highlights": [
+    "Very strong in STEM",
+    "cutting-edge labs",
+    "located in central London",
+    "startups",
+    "global network"
+  ],
+  "tuitionRange": "£35,000-£50,000/year",
+  "popularPrograms": [
+    "Engineering",
+    "Medicine",
+    "Natural Sciences",
+    "Business",
+    "Computing",
+    "Data science"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T13:08:08.737Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T13:08:08.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c9627b4ff490389edf836c"
+  },
+  "meta_title": "University of Oxford",
+  "meta_keywords": "University of Oxford",
+  "meta_description": "The University of Oxford is a historic collegiate university in England, the oldest in the English-speaking world, with a global reputation for teaching and research. It features 44 colleges, the largest library system in the UK, and has a collegiate structure that provides students with a community, accommodation, and academic support within the wider university framework. Oxford is divided into four academic divisions, offering a wide range of subjects and boasting high rankings in various university assessments, including the top spot in The Times Higher Education World University Rankings. ",
+  "category": "68c80e9b4ff490389edf817d",
+  "page_url": "uk",
+  "page_image_tag": "uk",
+  "title": "University of Oxford",
+  "page_content": "<p>The University of Oxford is a historic collegiate university in England, the oldest in the English-speaking world, with a global reputation for teaching and research. It features 44 colleges, the largest library system in the UK, and has a collegiate structure that provides students with a community, accommodation, and academic support within the wider university framework. Oxford is divided into four academic divisions, offering a wide range of subjects and boasting high rankings in various university assessments, including the top spot in The Times Higher Education World University Rankings.&nbsp;</p>",
+  "image": "1758028411893-753633230.jpg",
+  "name": "University of Oxford",
+  "location": "Oxford, England",
+  "ranking": "QS Ranking 3rd",
+  "description": "The University of Oxford is a historic collegiate university in England, the oldest in the English-speaking world, with a global reputation for teaching and research. It features 44 colleges, the largest library system in the UK, and has a collegiate structure that provides students with a community, accommodation, and academic support within the wider university framework. Oxford is divided into four academic divisions, offering a wide range of subjects and boasting high rankings in various university assessments, including the top spot in The Times Higher Education World University Rankings. ",
+  "highlights": [
+    "One of the oldest",
+    "most prestigious universities globally",
+    "powerful alumni network",
+    "Oxford also has high prestige and visibility"
+  ],
+  "tuitionRange": " £28,000-£60,000+/year",
+  "popularPrograms": [
+    "Law",
+    "Medicine",
+    "Humanities",
+    "Natural Sciences",
+    "PPE"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T13:13:31.904Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T13:13:31.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c963af4ff490389edf836e"
+  },
+  "meta_title": "University of Cambridge",
+  "meta_keywords": "University of Cambridge",
+  "meta_description": "The University of Cambridge is a historic English public collegiate research university founded in 1209, making it the world's third-oldest continuously operating university. Known for its prestigious academic reputation, beautiful architecture, and famous colleges, Cambridge is a global leader in research and offers a wide range of scholarly programs.  ",
+  "category": "68c80e9b4ff490389edf817d",
+  "page_url": "uk",
+  "page_image_tag": "uk",
+  "title": "University of Cambridge",
+  "page_content": "<p>The University of Cambridge is a historic English public collegiate research university founded in 1209, making it the world's third-oldest continuously operating university. Known for its prestigious academic reputation, beautiful architecture, and famous colleges, Cambridge is a global leader in research and offers a wide range of scholarly programs. &nbsp;</p>",
+  "image": "1758028719307-288641944.jpg",
+  "name": "University of Cambridge",
+  "location": "Cambridge, England",
+  "ranking": "QS Ranking 5th",
+  "description": "The University of Cambridge is a historic English public collegiate research university founded in 1209, making it the world's third-oldest continuously operating university. Known for its prestigious academic reputation, beautiful architecture, and famous colleges, Cambridge is a global leader in research and offers a wide range of scholarly programs.  ",
+  "highlights": [
+    "Very strong in research",
+    "high academic rigor",
+    "collegiate system",
+    "strong among global employers"
+  ],
+  "tuitionRange": "£27,000-£45,000+/year",
+  "popularPrograms": [
+    "Natural Sciences",
+    "Engineering",
+    "Economics",
+    "Architecture",
+    "Law",
+    "Arts & Humanities"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T13:18:39.315Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T13:18:39.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c965b24ff490389edf8376"
+  },
+  "meta_title": "University College London ",
+  "meta_keywords": "University College London ",
+  "meta_description": "UCL is a diverse global community of world-class academics, students, industry links, external partners, and alumni. Our powerful collective of individuals and institutions work together to explore new possibilities. Since 1826, we have championed independent thought by attracting and nurturing the world's best minds.",
+  "category": "68c80e9b4ff490389edf817d",
+  "page_url": "uk",
+  "page_image_tag": "uk",
+  "title": "University College London (UCL)",
+  "page_content": "<p>UCL is <strong>a diverse global community of world-class academics, students, industry links, external partners, and alumni</strong>. Our powerful collective of individuals and institutions work together to explore new possibilities. Since 1826, we have championed independent thought by attracting and nurturing the world's best minds.</p>",
+  "image": "1758029234734-607606139.jpg",
+  "name": "University College London (UCL)",
+  "location": "London, England",
+  "ranking": "QS Ranking 9th",
+  "description": "UCL is a diverse global community of world-class academics, students, industry links, external partners, and alumni. Our powerful collective of individuals and institutions work together to explore new possibilities. Since 1826, we have championed independent thought by attracting and nurturing the world's best minds.",
+  "highlights": [
+    "broad gamut of programs",
+    "excellent in both STEM and non-STEM",
+    "culture",
+    "networking"
+  ],
+  "tuitionRange": "£25,000-£37,000+/year",
+  "popularPrograms": [
+    "Arts & Humanities",
+    "Law",
+    "Medicine",
+    "Architecture",
+    "Engineering",
+    "Social Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T13:27:14.744Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T13:27:14.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c966c24ff490389edf8378"
+  },
+  "meta_title": "University of Edinburgh",
+  "meta_keywords": "University of Edinburgh",
+  "meta_description": "The University of Edinburgh is a historic, world-leading, research-intensive university founded in 1583, known for its pioneering research, academic excellence, and entrepreneurial spirit. As one of Scotland's ancient universities, it has a strong international reputation and has produced prominent figures, including leaders of the Scottish Enlightenment and Nobel laureates. The university features a sprawling campus with traditional architecture and hosts a diverse community of over 45,000 students from around the globe.  \r\n",
+  "category": "68c80e9b4ff490389edf817d",
+  "page_url": "uk",
+  "page_image_tag": "uk",
+  "title": "University of Edinburgh",
+  "page_content": "<p>The University of Edinburgh is a historic, world-leading, research-intensive university founded in 1583, known for its pioneering research, academic excellence, and entrepreneurial spirit. As one of Scotland's ancient universities, it has a strong international reputation and has produced prominent figures, including leaders of the Scottish english and Nobel laureates. The university features a sprawling campus with traditional architecture and hosts a diverse community of over 45,000 students from around the globe. &nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+  "image": "1758029506775-223833854.jpg",
+  "name": "University of Edinburgh",
+  "location": "Edinburgh, Scotland",
+  "ranking": "QS Ranking 25th",
+  "description": "The University of Edinburgh is a historic, world-leading, research-intensive university founded in 1583, known for its pioneering research, academic excellence, and entrepreneurial spirit. As one of Scotland's ancient universities, it has a strong international reputation and has produced prominent figures, including leaders of the Scottish Enlightenment and Nobel laureates. The university features a sprawling campus with traditional architecture and hosts a diverse community of over 45,000 students from around the globe.  \r\n",
+  "highlights": [
+    "Historic",
+    "scenic",
+    "strong research",
+    "more affordable"
+  ],
+  "tuitionRange": "£24,000-£50,000",
+  "popularPrograms": [
+    "AI",
+    "Computer Science",
+    "Medicine",
+    "Social Sciences",
+    "Law",
+    "Arts & Humanities"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T13:31:46.781Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T13:31:46.781Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c967964ff490389edf837a"
+  },
+  "meta_title": "University of Manchester",
+  "meta_keywords": "University of Manchester",
+  "meta_description": "The University of Manchester is a prestigious Russell Group institution in the UK, known for world-class research, teaching excellence, and social impact. It's a major global university with a diverse community, offering numerous fields of study and a high graduate employment rate. Located in Manchester, UK, the university has two main campus areas and is recognized for its significant global and local influence. ",
+  "category": "68c80e9b4ff490389edf817d",
+  "page_url": "uk",
+  "page_image_tag": "uk",
+  "title": "University of Manchester",
+  "page_content": "<p>The University of Manchester is a prestigious Russell Group institution in the UK, known for world-class research, teaching excellence, and social impact. It's a major global university with a diverse community, offering numerous fields of study and a high graduate employment rate. Located in Manchester, UK, the university has two main campus areas and is recognized for its significant global and local influence.&nbsp;</p>",
+  "image": "1758029718434-942653200.jpg",
+  "name": "University of Manchester",
+  "location": "Manchester, England",
+  "ranking": "QS Ranking 32th ",
+  "description": "The University of Manchester is a prestigious Russell Group institution in the UK, known for world-class research, teaching excellence, and social impact. It's a major global university with a diverse community, offering numerous fields of study and a high graduate employment rate. Located in Manchester, UK, the university has two main campus areas and is recognized for its significant global and local influence. ",
+  "highlights": [
+    "Large student population",
+    "strong industry ties",
+    "good research",
+    "more affordable than London"
+  ],
+  "tuitionRange": "£20,000-£34,000",
+  "popularPrograms": [
+    "Engineering",
+    "Business / Management",
+    "Computer Science",
+    "Life Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T13:35:18.447Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T13:35:18.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c9752b4ff490389edf839d"
+  },
+  "meta_title": "University of Melbourne",
+  "meta_keywords": "University of Melbourne",
+  "meta_description": "The University of Melbourne is a leading, public, research-intensive university in Australia, established in 1853 and located on the traditional lands of the Wurundjeri Woi Wurrung people. It is known for its high-quality transformative education and research, offering programs across many disciplines. With a main campus in Parkville and other locations across Victoria, the university has a vibrant community of over 53,000 students and 10,000 staff, attracting students from over 150 countries. It holds a reputation as one of the top universities globally, with significant contributions to societal challenges and a strong international focus. \r\n",
+  "category": "68c7e4704ff490389edf809c",
+  "page_url": "australia",
+  "page_image_tag": "australia",
+  "title": "University of Melbourne",
+  "page_content": "<p>The University of Melbourne is a leading, public, research-intensive university in Australia, established in 1853 and located on the traditional lands of the Wurundjeri Woi Wurrung people. It is known for its high-quality transformative education and research, offering programs across many disciplines. With a main campus in Parkville and other locations across Victoria, the university has a vibrant community of over 53,000 students and 10,000 staff, attracting students from over 150 countries. It holds a reputation as one of the top universities globally, with significant contributions to societal challenges and a strong international focus.&nbsp;</p><p><br>&nbsp;</p>",
+  "image": "1758033195681-775619781.jpg",
+  "name": "University of Melbourne",
+  "location": "Parkville, Victoria Melbourne",
+  "ranking": "QS Ranking 19th",
+  "description": "The University of Melbourne is a leading, public, research-intensive university in Australia, established in 1853 and located on the traditional lands of the Wurundjeri Woi Wurrung people. It is known for its high-quality transformative education and research, offering programs across many disciplines. With a main campus in Parkville and other locations across Victoria, the university has a vibrant community of over 53,000 students and 10,000 staff, attracting students from over 150 countries. It holds a reputation as one of the top universities globally, with significant contributions to societal challenges and a strong international focus. \r\n",
+  "highlights": [
+    "Research & Teaching Reputation",
+    "interdisciplinary research",
+    "Indigenous studies"
+  ],
+  "tuitionRange": "AUD 35,000 – 45,000",
+  "popularPrograms": [
+    "Medicine",
+    "Biomedicine",
+    "Law",
+    "Commerce"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T14:33:15.688Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T14:33:15.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c976854ff490389edf83a3"
+  },
+  "meta_title": "UNSW Sydney ( University of New South Wales)",
+  "meta_keywords": "UNSW Sydney ( University of New South Wales)",
+  "meta_description": "UNSW Sydney is a prestigious public research university founded in 1949 and ranked among the world's top 20 universities, known for its strong focus on teaching and research, student employability, and industry connections. It offers a range of degrees through its seven faculties, with a large campus in Kensington, Sydney, and offers a career-focused, hands-on education. UNSW is recognized for contributing to fields such as public health, climate science, and quantum computing. ",
+  "category": "68c7e4704ff490389edf809c",
+  "page_url": "aus",
+  "page_image_tag": "aus",
+  "title": "UNSW Sydney ( University of New South Wales)",
+  "page_content": "<p>UNSW Sydney is a prestigious public research university founded in 1949 and ranked among the world's top 20 universities, known for its strong focus on <a href=\"https://www.google.com/search?q=teaching+and+research&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifNBiM7_7IE5jWA0JRQTL0-kEgLKjQ%3A1758032914304&amp;ei=EnTJaIqoEpnDvr0Pm5vx0Qo&amp;ved=2ahUKEwi-wu_DwN2PAxXrma8BHfqFC9wQgK4QegQIARAC&amp;uact=5&amp;oq=UNSW+Sydney+%28+University+of+New+South+Wales%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiM1VOU1cgU3lkbmV5ICggVW5pdmVyc2l0eSBvZiBOZXcgU291dGggV2FsZXMpIGRldGFpbDIIECEYoAEYwwRIhXlQxRBY_m5wA3gBkAEAmAHuAaABzgOqAQMyLTK4AQPIAQD4AQL4AQGYAgWgAuoDwgIKEAAYsAMY1gQYR8ICCBAAGIAEGKIEmAMAiAYBkAYIkgcFMy4wLjKgB-QEsgcDMi0yuAfcA8IHBTAuMS40yAcS&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfBs4g0qV5WWsQLEmuRlH_uUEpxUQ1UkiZPZDUSG9P9UiePqMrD1C61G5_m8as8OfIq4ueRxDCMavXb-oex1lTKvdq8fIULvVs_aATXshOJPGXEan2wvR8uavh3-dg3oAU7YdBu-JMcvY_2biWKfw4HrYPEPKim9e7hJ2CIIIeIEScRreLZ8__2aTQ5Wg5XAxcFozNdtYCidAq-m2IJ6mpHyBDXErB7-DhoI0Xx-dUYVnDB8tFf6t7OQZ1WSI_kQjqvVADhl8U3hzI5ufZXUi984bmOFaqbJlZ7sigliyCRdo3elf4xgJZnXkAIa-ccgfQ&amp;csui=3\">teaching and research</a>, <a href=\"https://www.google.com/search?q=student+employability&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifNBiM7_7IE5jWA0JRQTL0-kEgLKjQ%3A1758032914304&amp;ei=EnTJaIqoEpnDvr0Pm5vx0Qo&amp;ved=2ahUKEwi-wu_DwN2PAxXrma8BHfqFC9wQgK4QegQIARAD&amp;uact=5&amp;oq=UNSW+Sydney+%28+University+of+New+South+Wales%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiM1VOU1cgU3lkbmV5ICggVW5pdmVyc2l0eSBvZiBOZXcgU291dGggV2FsZXMpIGRldGFpbDIIECEYoAEYwwRIhXlQxRBY_m5wA3gBkAEAmAHuAaABzgOqAQMyLTK4AQPIAQD4AQL4AQGYAgWgAuoDwgIKEAAYsAMY1gQYR8ICCBAAGIAEGKIEmAMAiAYBkAYIkgcFMy4wLjKgB-QEsgcDMi0yuAfcA8IHBTAuMS40yAcS&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfBs4g0qV5WWsQLEmuRlH_uUEpxUQ1UkiZPZDUSG9P9UiePqMrD1C61G5_m8as8OfIq4ueRxDCMavXb-oex1lTKvdq8fIULvVs_aATXshOJPGXEan2wvR8uavh3-dg3oAU7YdBu-JMcvY_2biWKfw4HrYPEPKim9e7hJ2CIIIeIEScRreLZ8__2aTQ5Wg5XAxcFozNdtYCidAq-m2IJ6mpHyBDXErB7-DhoI0Xx-dUYVnDB8tFf6t7OQZ1WSI_kQjqvVADhl8U3hzI5ufZXUi984bmOFaqbJlZ7sigliyCRdo3elf4xgJZnXkAIa-ccgfQ&amp;csui=3\">student employability</a>, and <a href=\"https://www.google.com/search?q=industry+connections&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifNBiM7_7IE5jWA0JRQTL0-kEgLKjQ%3A1758032914304&amp;ei=EnTJaIqoEpnDvr0Pm5vx0Qo&amp;ved=2ahUKEwi-wu_DwN2PAxXrma8BHfqFC9wQgK4QegQIARAE&amp;uact=5&amp;oq=UNSW+Sydney+%28+University+of+New+South+Wales%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiM1VOU1cgU3lkbmV5ICggVW5pdmVyc2l0eSBvZiBOZXcgU291dGggV2FsZXMpIGRldGFpbDIIECEYoAEYwwRIhXlQxRBY_m5wA3gBkAEAmAHuAaABzgOqAQMyLTK4AQPIAQD4AQL4AQGYAgWgAuoDwgIKEAAYsAMY1gQYR8ICCBAAGIAEGKIEmAMAiAYBkAYIkgcFMy4wLjKgB-QEsgcDMi0yuAfcA8IHBTAuMS40yAcS&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfBs4g0qV5WWsQLEmuRlH_uUEpxUQ1UkiZPZDUSG9P9UiePqMrD1C61G5_m8as8OfIq4ueRxDCMavXb-oex1lTKvdq8fIULvVs_aATXshOJPGXEan2wvR8uavh3-dg3oAU7YdBu-JMcvY_2biWKfw4HrYPEPKim9e7hJ2CIIIeIEScRreLZ8__2aTQ5Wg5XAxcFozNdtYCidAq-m2IJ6mpHyBDXErB7-DhoI0Xx-dUYVnDB8tFf6t7OQZ1WSI_kQjqvVADhl8U3hzI5ufZXUi984bmOFaqbJlZ7sigliyCRdo3elf4xgJZnXkAIa-ccgfQ&amp;csui=3\">industry connections</a>. It offers a range of degrees through its seven faculties, with a large campus in Kensington, Sydney, and offers a career-focused, hands-on education. UNSW is recognized for contributing to fields such as public health, climate science, and quantum computing.&nbsp;</p>",
+  "image": "1758033541462-492884100.jpg",
+  "name": "UNSW Sydney ( University of New South Wales)",
+  "location": "Sydney, New South Wales",
+  "ranking": "QS Ranking 20th ",
+  "description": "UNSW Sydney is a prestigious public research university founded in 1949 and ranked among the world's top 20 universities, known for its strong focus on teaching and research, student employability, and industry connections. It offers a range of degrees through its seven faculties, with a large campus in Kensington, Sydney, and offers a career-focused, hands-on education. UNSW is recognized for contributing to fields such as public health, climate science, and quantum computing. ",
+  "highlights": [
+    "Engineering",
+    "professional courses",
+    "architecture are expensive"
+  ],
+  "tuitionRange": "AUD 40,000-60,000",
+  "popularPrograms": [
+    "Engineering",
+    "Technology",
+    "Computer Science",
+    "Business",
+    "Architecture"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T14:39:01.489Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T14:39:01.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c977684ff490389edf83a5"
+  },
+  "meta_title": "University of Sydney",
+  "meta_keywords": "University of Sydney",
+  "meta_description": "The University of Sydney (USyd), established in 1850, is Australia's oldest university and a public research institution in Sydney, Australia. It is a member of the prestigious Group of Eight (Go8) and is consistently ranked among the top 20 universities globally for its research, teaching, and graduate employability. The university offers a wide range of study programs across eight faculties, with over 400 areas of study, and is known for its diverse and inclusive community with a large international student population. ",
+  "category": "68c7e4704ff490389edf809c",
+  "page_url": "aus",
+  "page_image_tag": "aus",
+  "title": "University of Sydney",
+  "page_content": "<p>The University of Sydney (USyd), established in 1850, is Australia's oldest university and a public research institution in Sydney, Australia. It is a member of the prestigious Group of Eight (Go8) and is consistently ranked among the top 20 universities globally for its research, teaching, and graduate employability. The university offers a wide range of study programs across eight faculties, with over 400 areas of study, and is known for its diverse and inclusive community with a large international student population.&nbsp;</p>",
+  "image": "1758033768892-454894991.jpg",
+  "name": "University of Sydney",
+  "location": "Sydney, NSW",
+  "ranking": "QS Ranking 25th ",
+  "description": "The University of Sydney (USyd), established in 1850, is Australia's oldest university and a public research institution in Sydney, Australia. It is a member of the prestigious Group of Eight (Go8) and is consistently ranked among the top 20 universities globally for its research, teaching, and graduate employability. The university offers a wide range of study programs across eight faculties, with over 400 areas of study, and is known for its diverse and inclusive community with a large international student population. ",
+  "highlights": [
+    "Health / Medicine",
+    "Law"
+  ],
+  "tuitionRange": "AUD 30,000-55,000",
+  "popularPrograms": [
+    "Medicine",
+    "Health Sciences",
+    "Law",
+    "Arts & Humanities"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T14:42:48.902Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T14:42:48.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c978364ff490389edf83a7"
+  },
+  "meta_title": "Australian National University (ANU)",
+  "meta_keywords": "Australian National University (ANU)",
+  "meta_description": "The Australian National University (ANU) is a top public research university in Canberra, Australia, founded in 1946, offering a wide range of undergraduate and postgraduate degrees across various disciplines. As a member of the Group of Eight and the International Alliance of Research Universities (IARU), ANU is known for its high-quality research, teaching, and strong global connections. The university is committed to providing a diverse and inclusive community, with services like guaranteed on-campus accommodation to help students succeed. \r\n",
+  "category": "68c7e4704ff490389edf809c",
+  "page_url": "aus",
+  "page_image_tag": "aus",
+  "title": "Australian National University (ANU)",
+  "page_content": "<p>The Australian National University (ANU) is a top public research university in Canberra, Australia, founded in 1946, offering a wide range of undergraduate and postgraduate degrees across various disciplines. As a member of the <a href=\"https://www.google.com/search?q=Group+of+Eight&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifM87ih1ES-G6cjWLYD6qZ-pW81GtA%3A1758033574009&amp;ei=pnbJaMIvz5W-vQ-LpKTgDw&amp;ved=2ahUKEwjo5cGbwt2PAxXWzTgGHSuCASQQgK4QegQIARAC&amp;uact=5&amp;oq=Australian+National+University+%28ANU%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiK0F1c3RyYWxpYW4gTmF0aW9uYWwgVW5pdmVyc2l0eSAoQU5VKSBkZXRhaWwyCBAhGKABGMMEMggQIRigARjDBEjxCVAAWABwAHgBkAEAmAH4AaAB-AGqAQMyLTG4AQPIAQD4AQL4AQGYAgGgAoACmAMAkgcDMi0xoAe7A7IHAzItMbgHgALCBwMyLTHIBwQ&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfCUO-BgY4jd3IiFxSoZ-gnX7pXKa-kpPAyw9m5SqyE0ZctayFQ3eA7nP8j-uMQXjf945cdrUbKcDhvDNPSSxUmiIQK0sVMLy_l4YTMgnTv6BDCXOEtxZyJn3pUCnJz0Keounehn5N7udZS_bpuzc0Vr3d3NTgFle40qwvPzLowLalYWBWSSu3Z_-74dVURyP2EVDSytd-A78uIUXIcnBDU-HnkFstTTNCE9zKNREzWwiaTT3TABZwNGplKDOnkPyiV3DXdAEKptu-9JSnTdZv_fs5VgT8r5tBba_hkVjwIS3QQ9VMZOxvXQNPUcgK91AQ&amp;csui=3\">Group of Eight</a> and the <a href=\"https://www.google.com/search?q=International+Alliance+of+Research+Universities+%28IARU%29&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifM87ih1ES-G6cjWLYD6qZ-pW81GtA%3A1758033574009&amp;ei=pnbJaMIvz5W-vQ-LpKTgDw&amp;ved=2ahUKEwjo5cGbwt2PAxXWzTgGHSuCASQQgK4QegQIARAD&amp;uact=5&amp;oq=Australian+National+University+%28ANU%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiK0F1c3RyYWxpYW4gTmF0aW9uYWwgVW5pdmVyc2l0eSAoQU5VKSBkZXRhaWwyCBAhGKABGMMEMggQIRigARjDBEjxCVAAWABwAHgBkAEAmAH4AaAB-AGqAQMyLTG4AQPIAQD4AQL4AQGYAgGgAoACmAMAkgcDMi0xoAe7A7IHAzItMbgHgALCBwMyLTHIBwQ&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfCUO-BgY4jd3IiFxSoZ-gnX7pXKa-kpPAyw9m5SqyE0ZctayFQ3eA7nP8j-uMQXjf945cdrUbKcDhvDNPSSxUmiIQK0sVMLy_l4YTMgnTv6BDCXOEtxZyJn3pUCnJz0Keounehn5N7udZS_bpuzc0Vr3d3NTgFle40qwvPzLowLalYWBWSSu3Z_-74dVURyP2EVDSytd-A78uIUXIcnBDU-HnkFstTTNCE9zKNREzWwiaTT3TABZwNGplKDOnkPyiV3DXdAEKptu-9JSnTdZv_fs5VgT8r5tBba_hkVjwIS3QQ9VMZOxvXQNPUcgK91AQ&amp;csui=3\">International Alliance of Research Universities (IARU)</a>, ANU is known for its high-quality research, teaching, and strong global connections. The university is committed to providing a diverse and inclusive community, with services like guaranteed on-campus accommodation to help students succeed.&nbsp;</p><p><br>&nbsp;</p>",
+  "image": "1758033974815-121754141.jpg",
+  "name": "Australian National University (ANU)",
+  "location": "Canberra, Australian Capital Territory",
+  "ranking": "QS Ranking 30th ",
+  "description": "The Australian National University (ANU) is a top public research university in Canberra, Australia, founded in 1946, offering a wide range of undergraduate and postgraduate degrees across various disciplines. As a member of the Group of Eight and the International Alliance of Research Universities (IARU), ANU is known for its high-quality research, teaching, and strong global connections. The university is committed to providing a diverse and inclusive community, with services like guaranteed on-campus accommodation to help students succeed. ",
+  "highlights": [
+    "Research-intensive",
+    "architecture",
+    "advanced science"
+  ],
+  "tuitionRange": "AUD 30,000-50,000",
+  "popularPrograms": [
+    "Public Policy",
+    "Social Sciences",
+    "Environmental Sciences",
+    "Natural Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T14:46:14.827Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T14:46:14.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c9790d4ff490389edf83a9"
+  },
+  "meta_title": "Monash University",
+  "meta_keywords": "Monash University",
+  "meta_description": "Monash University is a public, research-intensive university in Melbourne, Australia, with a global presence and strong rankings in the top 1% of world universities. Founded in 1958 and named after Sir John Monash, it offers over 100 undergraduate and graduate programs across 10 faculties, from Arts to Medicine. Known for its impactful research in areas like climate change and health, the university has a vibrant community of over 86,000 students and 9,000 staff across its Australian campuses and international locations in Malaysia, China, India, and Italy. ",
+  "category": "68c7e4704ff490389edf809c",
+  "page_url": "aus",
+  "page_image_tag": "aus ",
+  "title": "Monash University",
+  "page_content": "<p>Monash University is a public, research-intensive university in Melbourne, Australia, with a global presence and strong rankings in the top 1% of world universities. Founded in 1958 and named after Sir John Monash, it offers over 100 undergraduate and graduate programs across 10 faculties, from Arts to Medicine. Known for its impactful research in areas like climate change and health, the university has a vibrant community of over 86,000 students and 9,000 staff across its Australian campuses and international locations in Malaysia, China, India, and Italy.&nbsp;</p>",
+  "image": "1758034189253-882385692.jpg",
+  "name": "Monash University",
+  "location": "Melbourne, Victoria",
+  "ranking": "QS Ranking 37th",
+  "description": "Monash University is a public, research-intensive university in Melbourne, Australia, with a global presence and strong rankings in the top 1% of world universities. Founded in 1958 and named after Sir John Monash, it offers over 100 undergraduate and graduate programs across 10 faculties, from Arts to Medicine. Known for its impactful research in areas like climate change and health, the university has a vibrant community of over 86,000 students and 9,000 staff across its Australian campuses and international locations in Malaysia, China, India, and Italy. ",
+  "highlights": [
+    "Medicine",
+    "clinical health sciences"
+  ],
+  "tuitionRange": "AUD 30,000-45,000",
+  "popularPrograms": [
+    "Medicine & Allied Health",
+    "Engineering",
+    "Pharmacy",
+    "Business",
+    "Arts"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T14:49:49.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T14:49:49.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68c979f24ff490389edf83ab"
+  },
+  "meta_title": "University of Queensland (UQ)",
+  "meta_keywords": "University of Queensland (UQ)",
+  "meta_description": "The University of Queensland (UQ) is a leading public research university in Brisbane, Australia, established in 1909, and is known for its excellence in teaching, learning, and research. As a member of Australia's Group of Eight, UQ offers over 300 undergraduate, postgraduate, and research programs across various disciplines, serving over 55,000 students on its multiple campuses. The university holds a strong global reputation and a diverse student body, with a significant number of international students from many countries. \r\n",
+  "category": "68c7e4704ff490389edf809c",
+  "page_url": "aus",
+  "page_image_tag": "aus",
+  "title": "University of Queensland (UQ)",
+  "page_content": "<p>The University of Queensland (UQ) is a leading public research university in Brisbane, Australia, established in 1909, and is known for its excellence in teaching, learning, and research. As a member of Australia's <a href=\"https://www.google.com/search?q=Group+of+Eight&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifP-34VBw5usMG4cAPFEiYO0fFh40g%3A1758033993614&amp;ei=SXjJaMqWJbGe4-EPscjfyQw&amp;ved=2ahUKEwjr4uzlw92PAxVar1YBHdrlPLUQgK4QegQIARAC&amp;uact=5&amp;oq=University+of+Queensland+%28UQ%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiJFVuaXZlcnNpdHkgb2YgUXVlZW5zbGFuZCAoVVEpIGRldGFpbDIEECEYFUj4ClAAWLgJcAB4AZABAJgB-QGgAagDqgEFMC4xLjG4AQPIAQD4AQL4AQGYAgKgArUDwgIIECEYoAEYwwSYAwCSBwUwLjEuMaAHuAOyBwUwLjEuMbgHtQPCBwMyLTLIBwY&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfBFrqpSpX6JuHeaxXoTfeLz2gpWRv4kBn_cS5JvSvcXTK6ojo-4LgdKxRaQ7FFCk157xNFSvQXBrtfC2jq1XRW0Tu7YznX6qZbo9tWmkltCb9kZ-Vb27oSOcwtRJRgN35lo874N2q72UL0jAxp99gpUeCWjuO4rHlWX_TOL_BxAwwinGLhvvC7zF6n8msKW-8kMYKgzNTYRdc-F1t76oxlCUtuD0OF2Anrkj83QI_Bc3wViT6uTaDzMlaUxe2uWsCFZ95vgxESqtMnU4M5LLjEasEsIetcfU1SqNPWtR1Igt38ZSMfl7r5Zx3DGuU8PHqH-GXgT-JoUrIw7e6kfoTZ0s8A7AlH-E9QokYzMpAK1jQsfrXsoUFPC66L7bVKe4sb_jkz9Hgdxedpi_MEgyiv2nr4LNt-mBEC5UxZr1b8&amp;csui=3\">Group of Eight</a>, UQ offers over 300 undergraduate, postgraduate, and research programs across various disciplines, serving over 55,000 students on its multiple campuses. The university holds a strong global reputation and a diverse student body, with a significant number of international students from many countries.&nbsp;</p><p><br>&nbsp;</p>",
+  "image": "1758034418416-212217101.jpg",
+  "name": "University of Queensland (UQ)",
+  "location": "Brisbane, Queensland",
+  "ranking": "QS Ranking 40th",
+  "description": "The University of Queensland (UQ) is a leading public research university in Brisbane, Australia, established in 1909, and is known for its excellence in teaching, learning, and research. As a member of Australia's Group of Eight, UQ offers over 300 undergraduate, postgraduate, and research programs across various disciplines, serving over 55,000 students on its multiple campuses. The university holds a strong global reputation and a diverse student body, with a significant number of international students from many countries. \r\n",
+  "highlights": [
+    "Engineering",
+    "Health / Medicine",
+    "ranked globally top 50"
+  ],
+  "tuitionRange": "AUD 43,000-54,000",
+  "popularPrograms": [
+    "Mineral & Mining Engineering",
+    "Veterinary Science",
+    "Environmental Sciences",
+    "Agriculture"
+  ],
+  "createdAt": {
+    "$date": "2025-09-16T14:53:38.422Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-16T14:53:38.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca714c4ff490389edf843a"
+  },
+  "meta_title": "Trinity College Dublin (TCD)",
+  "meta_keywords": "Trinity College Dublin (TCD)",
+  "meta_description": "Trinity College Dublin (TCD) is a historic and globally recognized public university in the heart of Dublin, Ireland, founded in 1592 as Ireland's leading institution of higher education. TCD offers a wide range of undergraduate and postgraduate programs across its three faculties: Arts, Humanities, and Social Sciences; Engineering, Mathematics and Science; and Health Sciences. Known for its commitment to academic excellence, cutting-edge research, and a diverse, international student body from over 125 countries, TCD provides a vibrant, interdisciplinary learning environment in a historic city-center campus. ",
+  "category": "68c7e52b4ff490389edf80a8",
+  "page_url": "ire",
+  "page_image_tag": "ire",
+  "title": "Trinity College Dublin (TCD)",
+  "page_content": "<p>Trinity College Dublin (TCD) is a historic and globally recognized public university in the heart of Dublin, Ireland, founded in 1592 as Ireland's leading institution of higher education. TCD offers a wide range of undergraduate and postgraduate programs across its three faculties: Arts, Humanities, and Social Sciences; Engineering, Mathematics and Science; and Health Sciences. Known for its commitment to academic excellence, cutting-edge research, and a diverse, international student body from over 125 countries, TCD provides a vibrant, interdisciplinary learning environment in a historic city-center campus.&nbsp;</p>",
+  "image": "1758097740273-670498090.jpg",
+  "name": "Trinity College Dublin (TCD)",
+  "location": "Dublin",
+  "ranking": "QS Ranking 80th ",
+  "description": "\r\nTrinity College Dublin (TCD) is a historic and globally recognized public university in the heart of Dublin, Ireland, founded in 1592 as Ireland's leading institution of higher education. TCD offers a wide range of undergraduate and postgraduate programs across its three faculties: Arts, Humanities, and Social Sciences; Engineering, Mathematics and Science; and Health Sciences. Known for its commitment to academic excellence, cutting-edge research, and a diverse, international student body from over 125 countries, TCD provides a vibrant, interdisciplinary learning environment in a historic city-center campus. ",
+  "highlights": [
+    "Oldest university in Ireland",
+    "very well-known globally",
+    "strong alumni network"
+  ],
+  "tuitionRange": "€20,000 – €28,000/year",
+  "popularPrograms": [
+    "Law",
+    "Business",
+    "Engineering",
+    "Humanities",
+    "Arts",
+    "Biomedical Sciences"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T08:29:00.325Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T08:29:00.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca72c74ff490389edf843c"
+  },
+  "meta_title": "University College Dublin (UCD)",
+  "meta_keywords": "University College Dublin (UCD)",
+  "meta_description": "University College Dublin (UCD) is Ireland's largest public research university, founded in 1854, and is a leading institution in the top 1% worldwide, known for its global outlook and numerous international students. Located in Dublin, UCD features a large, modern, parkland campus with state-of-the-art facilities, making it a significant academic and cultural hub in the city. UCD offers a wide range of undergraduate and postgraduate programs, a strong focus on graduate education, and a commitment to innovation, with extensive global partnerships and a large alumni network. ",
+  "category": "68c7e52b4ff490389edf80a8",
+  "page_url": "ire",
+  "page_image_tag": "ire",
+  "title": "University College Dublin (UCD)",
+  "page_content": "<p>University College Dublin (UCD) is Ireland's largest public research university, founded in 1854, and is a leading institution in the top 1% worldwide, known for its global outlook and numerous international students. Located in Dublin, UCD features a large, modern, parkland campus with state-of-the-art facilities, making it a significant academic and cultural hub in the city. UCD offers a wide range of undergraduate and postgraduate programs, a strong focus on graduate education, and a commitment to innovation, with extensive global partnerships and a large alumni network.&nbsp;</p>",
+  "image": "1758098119846-127831387.jpg",
+  "name": "University College Dublin (UCD)",
+  "location": "Dublin",
+  "ranking": "QS Ranking 170th ",
+  "description": "University College Dublin (UCD) is Ireland's largest public research university, founded in 1854, and is a leading institution in the top 1% worldwide, known for its global outlook and numerous international students. Located in Dublin, UCD features a large, modern, parkland campus with state-of-the-art facilities, making it a significant academic and cultural hub in the city. UCD offers a wide range of undergraduate and postgraduate programs, a strong focus on graduate education, and a commitment to innovation, with extensive global partnerships and a large alumni network. ",
+  "highlights": [
+    "research intense university",
+    "good facilities",
+    "strong graduate employability"
+  ],
+  "tuitionRange": "€17,000 – €26,000/year",
+  "popularPrograms": [
+    "Engineering",
+    "Life Sciences",
+    "Business",
+    "Medicine",
+    "Agriculture"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T08:35:19.879Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T08:35:19.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca743b4ff490389edf843f"
+  },
+  "meta_title": "University College Cork (UCC) ",
+  "meta_keywords": "University College Cork (UCC) ",
+  "meta_description": "University College Cork (UCC) is a public university in Cork, Ireland, and a constituent of the National University of Ireland. It is known for its societal impact, community engagement, and global partnerships, hosting nearly 4,000 international students from over 100 countries. UCC offers a wide range of programs and has a historic, leafy campus with notable architecture along the River Lee.",
+  "category": "68c7e52b4ff490389edf80a8",
+  "page_url": "ire ",
+  "page_image_tag": "ire ",
+  "title": "University College Cork (UCC) ",
+  "page_content": "<p>University College Cork (UCC) is a public university in Cork, Ireland, and a constituent of the National University of Ireland. It is known for its societal impact, community engagement, and global partnerships, hosting nearly 4,000 international students from over 100 countries. UCC offers a wide range of programs and has a historic, leafy campus with notable architecture along the River Lee.</p>",
+  "image": "1758098491782-64572458.jpg",
+  "name": "University College Cork (UCC) ",
+  "location": "Cork",
+  "ranking": "QS Ranking 250th",
+  "description": "University College Cork (UCC) is a public university in Cork, Ireland, and a constituent of the National University of Ireland. It is known for its societal impact, community engagement, and global partnerships, hosting nearly 4,000 international students from over 100 countries. UCC offers a wide range of programs and has a historic, leafy campus with notable architecture along the River Lee.",
+  "highlights": [
+    "Strong research in health",
+    "pharma",
+    "good quality of life"
+  ],
+  "tuitionRange": " €15,000 – €22,000/year",
+  "popularPrograms": [
+    "Pharmacy",
+    "Medicine",
+    "Computer Science",
+    "Food Science"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T08:41:31.796Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T08:41:31.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca76944ff490389edf8445"
+  },
+  "meta_title": "University of Galway (NUI Galway)",
+  "meta_keywords": "University of Galway (NUI Galway)",
+  "meta_description": "\r\nAbout Us | Study at NUI GalwayThe University of Galway is a public, research-led university established in 1845 in Galway, Ireland, known for its excellence in education and research in areas like Web Science, Biomedical Science, and sustainability. It is one of Ireland's oldest and largest universities, a global institution with deep roots in the local community, and a leading university for graduate employability. The university offers a wide range of programs to its 18,000+ students, including a significant international student population from over 110 countries. ",
+  "category": "68c7e52b4ff490389edf80a8",
+  "page_url": "ire",
+  "page_image_tag": "ire",
+  "title": "University of Galway (NUI Galway)",
+  "page_content": "<p>&nbsp;</p><p>The University of Galway is a public, research-led university established in 1845 in Galway, Ireland, known for its excellence in education and research in areas like Web Science, Biomedical Science, and sustainability. It is one of Ireland's oldest and largest universities, a global institution with deep roots in the local community, and a leading university for graduate employability. The university offers a wide range of programs to its 18,000+ students, including a significant international student population from over 110 countries.&nbsp;</p>",
+  "image": "1758099092821-262372176.jpg",
+  "name": "University of Galway (NUI Galway)",
+  "location": "Galway",
+  "ranking": "QS Ranking 280th ",
+  "description": "\r\nAbout Us | Study at NUI GalwayThe University of Galway is a public, research-led university established in 1845 in Galway, Ireland, known for its excellence in education and research in areas like Web Science, Biomedical Science, and sustainability. It is one of Ireland's oldest and largest universities, a global institution with deep roots in the local community, and a leading university for graduate employability. The university offers a wide range of programs to its 18,000+ students, including a significant international student population from over 110 countries. ",
+  "highlights": [
+    "good mix of culture",
+    "strong in research",
+    "growing reputation"
+  ],
+  "tuitionRange": " €16,000 – €23,000/year",
+  "popularPrograms": [
+    "Medicine",
+    "Data Science",
+    "Psychology",
+    "Law"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T08:51:32.854Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T08:51:32.854Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca85054ff490389edf844b"
+  },
+  "meta_title": "University of Limerick (UL)",
+  "meta_keywords": "University of Limerick (UL)",
+  "meta_description": "The University of Limerick (UL) is a public research university located in Limerick, Ireland, established in 1972, offering undergraduate and postgraduate programs across four faculties: Arts, Humanities and Social Sciences, Kemmy Business School, Education and Health Sciences, and Science and Engineering. Known for its innovative education, strong research, high graduate employability, and award-winning campus, UL serves over 18,000 students and provides an engaging student experience. ",
+  "category": "68c7e52b4ff490389edf80a8",
+  "page_url": "ire",
+  "page_image_tag": "ire ",
+  "title": "University of Limerick (UL)",
+  "page_content": "<p>The University of Limerick (UL) is a public research university located in Limerick, Ireland, established in 1972, offering undergraduate and postgraduate programs across four faculties: Arts, Humanities and Social Sciences, Kemmy Business School, Education and Health Sciences, and Science and Engineering. Known for its innovative education, strong research, high graduate employability, and award-winning campus, UL serves over 18,000 students and provides an engaging student experience.&nbsp;</p>",
+  "image": "1758102789801-478079566.jpg",
+  "name": "University of Limerick (UL)",
+  "location": "Limerick",
+  "ranking": "QS Ranking 400th",
+  "description": "The University of Limerick (UL) is a public research university located in Limerick, Ireland, established in 1972, offering undergraduate and postgraduate programs across four faculties: Arts, Humanities and Social Sciences, Kemmy Business School, Education and Health Sciences, and Science and Engineering. Known for its innovative education, strong research, high graduate employability, and award-winning campus, UL serves over 18,000 students and provides an engaging student experience. ",
+  "highlights": [
+    "good applied learning",
+    "internships",
+    "modern campus",
+    "good student support"
+  ],
+  "tuitionRange": "€15,000 – €21,000/year",
+  "popularPrograms": [
+    "Engineering",
+    "Healthcare Science",
+    "Business",
+    "Sports Science"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T09:53:09.813Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T09:53:09.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca867e4ff490389edf844d"
+  },
+  "meta_title": "Dublin City University (DCU)",
+  "meta_keywords": "Dublin City University (DCU)",
+  "meta_description": "Dublin City University (DCU) is a young, ambitious, and globally recognized public university in Ireland, founded in 1989, known for its distinctive teaching, research, and societal impact. It serves over 20,000 students across multiple campuses with a focus on practical experience through internships, preparing well-rounded graduates for the workforce and society. DCU also has a strong commitment to sustainability, ranking highly for contributions to climate action and well-being. \r\n",
+  "category": "68c7e52b4ff490389edf80a8",
+  "page_url": "ire ",
+  "page_image_tag": "ire ",
+  "title": "Dublin City University (DCU)",
+  "page_content": "<p>Dublin City University (DCU) is a young, ambitious, and globally recognized public university in Ireland, founded in 1989, known for its distinctive teaching, research, and societal impact. It serves over 20,000 students across multiple campuses with a focus on practical experience through internships, preparing well-rounded graduates for the workforce and society. DCU also has a strong commitment to sustainability, ranking highly for contributions to climate action and well-being.&nbsp;</p><p><br>&nbsp;</p>",
+  "image": "1758103166633-427336490.jpg",
+  "name": "Dublin City University (DCU)",
+  "location": " Dublin",
+  "ranking": "QS Ranking 430",
+  "description": "Dublin City University (DCU) is a young, ambitious, and globally recognized public university in Ireland, founded in 1989, known for its distinctive teaching, research, and societal impact. It serves over 20,000 students across multiple campuses with a focus on practical experience through internships, preparing well-rounded graduates for the workforce and society. DCU also has a strong commitment to sustainability, ranking highly for contributions to climate action and well-being. \r\n",
+  "highlights": [
+    "More modern",
+    "newer growth",
+    "emphasis on entrepreneurship",
+    "innovation"
+  ],
+  "tuitionRange": " €15,000 – €20,000",
+  "popularPrograms": [
+    "Computing",
+    "Business",
+    "Media & Communication",
+    "Education"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T09:59:26.641Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T09:59:26.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca8ab74ff490389edf8465"
+  },
+  "meta_title": "Université PSL (Paris Sciences & Lettres)",
+  "meta_keywords": "Université PSL (Paris Sciences & Lettres)",
+  "meta_description": "Université PSL (Paris Sciences & Lettres) is a prestigious public research university in Paris, France, formed in 2019 from 25 leading institutions, including renowned grandes écoles and universities, and recognized for its research excellence and selectivity in fields from sciences and arts to humanities and management. It offers highly selective undergraduate and PhD programs, many taught in English, with strong international partnerships, a focus on diversity, and comprehensive support services for students. ",
+  "category": "68c7e5b24ff490389edf80ac",
+  "page_url": "fra",
+  "page_image_tag": "fra",
+  "title": "Université PSL (Paris Sciences & Lettres)",
+  "page_content": "<p>Université PSL (Paris Sciences &amp; Lettres) is a prestigious public research university in Paris, France, formed in 2019 from 25 leading institutions, including renowned <i>grandes écoles</i> and universities, and recognized for its research excellence and selectivity in fields from sciences and arts to humanities and management. It offers highly selective undergraduate and PhD programs, many taught in English, with strong international partnerships, a focus on diversity, and comprehensive support services for students.&nbsp;</p>",
+  "image": "1758104247763-364528356.jpg",
+  "name": "Université PSL (Paris Sciences & Lettres)",
+  "location": "Paris",
+  "ranking": "QS Ranking 24",
+  "description": "Université PSL (Paris Sciences & Lettres) is a prestigious public research university in Paris, France, formed in 2019 from 25 leading institutions, including renowned grandes écoles and universities, and recognized for its research excellence and selectivity in fields from sciences and arts to humanities and management. It offers highly selective undergraduate and PhD programs, many taught in English, with strong international partnerships, a focus on diversity, and comprehensive support services for students. ",
+  "highlights": [
+    "Very high research output",
+    "strong citation",
+    "many subject rankings high"
+  ],
+  "tuitionRange": " €2,770/year for many public",
+  "popularPrograms": [
+    "Natural Sciences",
+    "Humanities",
+    "Social Sciences",
+    "Economics"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T10:17:27.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T10:17:27.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca8c084ff490389edf8475"
+  },
+  "meta_title": "Institut Polytechnique de Paris (IP Paris)",
+  "meta_keywords": "Institut Polytechnique de Paris (IP Paris)",
+  "meta_description": "The Institut Polytechnique de Paris (IP Paris) is a public higher education and research institution, founded in May 2019, that integrates five leading French engineering schools (École Polytechnique, ENSTA Paris, ENSAE Paris, Télécom Paris, and Télécom SudParis) to provide world-class education and research in science and technology. The institute offers multidisciplinary programs from Bachelor to PhD levels, fosters cutting-edge research, and promotes innovation and entrepreneurship, with a significant international student body and numerous prestigious alumni. ",
+  "category": "68c7e5b24ff490389edf80ac",
+  "page_url": "fra",
+  "page_image_tag": "fra",
+  "title": "Institut Polytechnique de Paris (IP Paris)",
+  "page_content": "<p>The Institut Polytechnique de Paris (IP Paris) is a public higher education and research institution, founded in May 2019, that integrates five leading French engineering schools (<a href=\"https://www.google.com/search?q=%C3%89cole+Polytechnique&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifN8lI2SbW2LMxDOIiBwuui-vjDUzw%3A1758104056153&amp;ei=-InKaJmQCZWWnesPkaGTyA0&amp;ved=2ahUKEwjZtu7vyN-PAxUuTWwGHSg3DGIQgK4QegQIARAC&amp;uact=5&amp;oq=Institut+Polytechnique+de+Paris+%28IP+Paris%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiMUluc3RpdHV0IFBvbHl0ZWNobmlxdWUgZGUgUGFyaXMgKElQIFBhcmlzKSBkZXRhaWwyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiYDlAAWABwAHgBkAEAmAHnAaAB5wGqAQMyLTG4AQPIAQD4AQL4AQGYAgGgAvABmAMAkgcDMi0xoAfjA7IHAzItMbgH8AHCBwMyLTHIBwY&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfA1y1vF6sGfr0jXUj5PaHtfaqtWgqm9YEwXDZA9Jf_P0SjDRIvVsuYeAOubA6w92s_MoJY6MvXCj89LIiqbWgpNZgeQislkd60F2vE2yNUc8a_oinp128ZgvKj10HExeyykLqIDg6z9PyBO93-aNacu98S2692ZfD5JX6cfsbnuBk9UZPkdq8rwGsfnpzvOGwEkeEyuSjD6i04iLF8ZdnTzsWSjFl-5b1DIgS5mt4AJMemqbjXCbssKP86PhoQ54MhtAPxARyZXMiJlk4oHKPVbWYJwzIVyJhioRiLRPaHV2TlQfJtX0jj8SXrfBq01-A&amp;csui=3\">École Polytechnique</a>, <a href=\"https://www.google.com/search?q=ENSTA+Paris&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifN8lI2SbW2LMxDOIiBwuui-vjDUzw%3A1758104056153&amp;ei=-InKaJmQCZWWnesPkaGTyA0&amp;ved=2ahUKEwjZtu7vyN-PAxUuTWwGHSg3DGIQgK4QegQIARAD&amp;uact=5&amp;oq=Institut+Polytechnique+de+Paris+%28IP+Paris%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiMUluc3RpdHV0IFBvbHl0ZWNobmlxdWUgZGUgUGFyaXMgKElQIFBhcmlzKSBkZXRhaWwyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiYDlAAWABwAHgBkAEAmAHnAaAB5wGqAQMyLTG4AQPIAQD4AQL4AQGYAgGgAvABmAMAkgcDMi0xoAfjA7IHAzItMbgH8AHCBwMyLTHIBwY&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfA1y1vF6sGfr0jXUj5PaHtfaqtWgqm9YEwXDZA9Jf_P0SjDRIvVsuYeAOubA6w92s_MoJY6MvXCj89LIiqbWgpNZgeQislkd60F2vE2yNUc8a_oinp128ZgvKj10HExeyykLqIDg6z9PyBO93-aNacu98S2692ZfD5JX6cfsbnuBk9UZPkdq8rwGsfnpzvOGwEkeEyuSjD6i04iLF8ZdnTzsWSjFl-5b1DIgS5mt4AJMemqbjXCbssKP86PhoQ54MhtAPxARyZXMiJlk4oHKPVbWYJwzIVyJhioRiLRPaHV2TlQfJtX0jj8SXrfBq01-A&amp;csui=3\">ENSTA Paris</a>, <a href=\"https://www.google.com/search?q=ENSAE+Paris&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifN8lI2SbW2LMxDOIiBwuui-vjDUzw%3A1758104056153&amp;ei=-InKaJmQCZWWnesPkaGTyA0&amp;ved=2ahUKEwjZtu7vyN-PAxUuTWwGHSg3DGIQgK4QegQIARAE&amp;uact=5&amp;oq=Institut+Polytechnique+de+Paris+%28IP+Paris%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiMUluc3RpdHV0IFBvbHl0ZWNobmlxdWUgZGUgUGFyaXMgKElQIFBhcmlzKSBkZXRhaWwyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiYDlAAWABwAHgBkAEAmAHnAaAB5wGqAQMyLTG4AQPIAQD4AQL4AQGYAgGgAvABmAMAkgcDMi0xoAfjA7IHAzItMbgH8AHCBwMyLTHIBwY&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfA1y1vF6sGfr0jXUj5PaHtfaqtWgqm9YEwXDZA9Jf_P0SjDRIvVsuYeAOubA6w92s_MoJY6MvXCj89LIiqbWgpNZgeQislkd60F2vE2yNUc8a_oinp128ZgvKj10HExeyykLqIDg6z9PyBO93-aNacu98S2692ZfD5JX6cfsbnuBk9UZPkdq8rwGsfnpzvOGwEkeEyuSjD6i04iLF8ZdnTzsWSjFl-5b1DIgS5mt4AJMemqbjXCbssKP86PhoQ54MhtAPxARyZXMiJlk4oHKPVbWYJwzIVyJhioRiLRPaHV2TlQfJtX0jj8SXrfBq01-A&amp;csui=3\">ENSAE Paris</a>, <a href=\"https://www.google.com/search?q=T%C3%A9l%C3%A9com+Paris&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifN8lI2SbW2LMxDOIiBwuui-vjDUzw%3A1758104056153&amp;ei=-InKaJmQCZWWnesPkaGTyA0&amp;ved=2ahUKEwjZtu7vyN-PAxUuTWwGHSg3DGIQgK4QegQIARAF&amp;uact=5&amp;oq=Institut+Polytechnique+de+Paris+%28IP+Paris%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiMUluc3RpdHV0IFBvbHl0ZWNobmlxdWUgZGUgUGFyaXMgKElQIFBhcmlzKSBkZXRhaWwyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiYDlAAWABwAHgBkAEAmAHnAaAB5wGqAQMyLTG4AQPIAQD4AQL4AQGYAgGgAvABmAMAkgcDMi0xoAfjA7IHAzItMbgH8AHCBwMyLTHIBwY&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfA1y1vF6sGfr0jXUj5PaHtfaqtWgqm9YEwXDZA9Jf_P0SjDRIvVsuYeAOubA6w92s_MoJY6MvXCj89LIiqbWgpNZgeQislkd60F2vE2yNUc8a_oinp128ZgvKj10HExeyykLqIDg6z9PyBO93-aNacu98S2692ZfD5JX6cfsbnuBk9UZPkdq8rwGsfnpzvOGwEkeEyuSjD6i04iLF8ZdnTzsWSjFl-5b1DIgS5mt4AJMemqbjXCbssKP86PhoQ54MhtAPxARyZXMiJlk4oHKPVbWYJwzIVyJhioRiLRPaHV2TlQfJtX0jj8SXrfBq01-A&amp;csui=3\">Télécom Paris</a>, and <a href=\"https://www.google.com/search?q=T%C3%A9l%C3%A9com+SudParis&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifN8lI2SbW2LMxDOIiBwuui-vjDUzw%3A1758104056153&amp;ei=-InKaJmQCZWWnesPkaGTyA0&amp;ved=2ahUKEwjZtu7vyN-PAxUuTWwGHSg3DGIQgK4QegQIARAG&amp;uact=5&amp;oq=Institut+Polytechnique+de+Paris+%28IP+Paris%29+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiMUluc3RpdHV0IFBvbHl0ZWNobmlxdWUgZGUgUGFyaXMgKElQIFBhcmlzKSBkZXRhaWwyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBEiYDlAAWABwAHgBkAEAmAHnAaAB5wGqAQMyLTG4AQPIAQD4AQL4AQGYAgGgAvABmAMAkgcDMi0xoAfjA7IHAzItMbgH8AHCBwMyLTHIBwY&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfA1y1vF6sGfr0jXUj5PaHtfaqtWgqm9YEwXDZA9Jf_P0SjDRIvVsuYeAOubA6w92s_MoJY6MvXCj89LIiqbWgpNZgeQislkd60F2vE2yNUc8a_oinp128ZgvKj10HExeyykLqIDg6z9PyBO93-aNacu98S2692ZfD5JX6cfsbnuBk9UZPkdq8rwGsfnpzvOGwEkeEyuSjD6i04iLF8ZdnTzsWSjFl-5b1DIgS5mt4AJMemqbjXCbssKP86PhoQ54MhtAPxARyZXMiJlk4oHKPVbWYJwzIVyJhioRiLRPaHV2TlQfJtX0jj8SXrfBq01-A&amp;csui=3\">Télécom SudParis</a>) to provide world-class education and research in science and technology. The institute offers multidisciplinary programs from Bachelor to PhD levels, fosters cutting-edge research, and promotes innovation and entrepreneurship, with a significant international student body and numerous prestigious alumni.&nbsp;</p>",
+  "image": "1758104584628-982032828.jpg",
+  "name": "Institut Polytechnique de Paris (IP Paris)",
+  "location": "Palaiseau, near Paris",
+  "ranking": "QS Ranking 38th",
+  "description": "The Institut Polytechnique de Paris (IP Paris) is a public higher education and research institution, founded in May 2019, that integrates five leading French engineering schools (École Polytechnique, ENSTA Paris, ENSAE Paris, Télécom Paris, and Télécom SudParis) to provide world-class education and research in science and technology. The institute offers multidisciplinary programs from Bachelor to PhD levels, fosters cutting-edge research, and promotes innovation and entrepreneurship, with a significant international student body and numerous prestigious alumni. ",
+  "highlights": [
+    "Strong employer reputation",
+    "good industry partnerships",
+    "selective",
+    "international student population"
+  ],
+  "tuitionRange": "€10,000-€15,000/year",
+  "popularPrograms": [
+    "Engineering",
+    "Applied Mathematics",
+    "AI",
+    "Data Science",
+    "Digital Technology"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T10:23:04.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T10:23:04.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca8d6c4ff490389edf8477"
+  },
+  "meta_title": "Sorbonne University",
+  "meta_keywords": "Sorbonne University",
+  "meta_description": "Sorbonne University is a multidisciplinary public research university in Paris, France, formed in 2018 by the merger of Paris-Sorbonne University and Pierre and Marie Curie University. It offers programs across a range of fields, including arts, humanities, social sciences, engineering, and medicine, and is a top-ranked institution with a strong international presence. While undergraduate programs are typically taught in French, many master's degrees are available in English",
+  "category": "68c7e5b24ff490389edf80ac",
+  "page_url": "fra",
+  "page_image_tag": "fra",
+  "title": "Sorbonne University",
+  "page_content": "<p>Sorbonne University is a multidisciplinary public research university in Paris, France, formed in 2018 by the merger of <a href=\"https://www.google.com/search?q=Paris-Sorbonne+University&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifN6dEB5_Algp6eaI8-lp-8rLEbeqg%3A1758104294817&amp;ei=5orKaNDTMcqTseMPy_erqQU&amp;ved=2ahUKEwi534mQyt-PAxUES3ADHde3GlMQgK4QegQIARAE&amp;uact=5&amp;oq=Sorbonne+University+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiGlNvcmJvbm5lIFVuaXZlcnNpdHkgZGV0YWlsMgYQABgIGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIFEAAY7wVI7RFQAFitC3AAeAGQAQCYAdwBoAHhBKoBBTAuMS4yuAEDyAEA-AEB-AECmAIDoAL_BMICDRAAGIAEGLEDGBQYhwLCAgsQABiABBiRAhiKBcICCxAuGIAEGMcBGK8BwgIFEAAYgATCAgoQABiABBhDGIoFwgIIEAAYgAQYsQPCAgQQIRgKmAMAkgcFMC4xLjKgB-YXsgcFMC4xLjK4B_8EwgcHMC4xLjEuMcgHEw&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfAh7SEmZuxG8XpLLnQRdsYMOjTwt_n7KJPc5au_Z5jm22ukoD2TS8-ulQMlkn2JB8EZZi5-W00sZpdkGiZXYC0HmJ-jvOtVnBTBV0snaT-O0pINAe6s7V8I5UwskLPJzQLfd68LA1XSWIBB5bTYysj50N3dVpRuCDRm0c2iVTkePHxRZXYgVgs_Ljwm_t0ZlDoERedmn6Xdo7o0xTRAVt1V32WLc3ac7WSIAVKQKH1bfG4ajfMfsTsKHKDNKgHt2GQ7MGWenKPSgDg5MIflaxJ01brH_Rmpz2E3R0HvpgUDoZfbWvEy-OfqIdAOAvWiLw&amp;csui=3\">Paris-Sorbonne University</a> and <a href=\"https://www.google.com/search?q=Pierre+and+Marie+Curie+University&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifN6dEB5_Algp6eaI8-lp-8rLEbeqg%3A1758104294817&amp;ei=5orKaNDTMcqTseMPy_erqQU&amp;ved=2ahUKEwi534mQyt-PAxUES3ADHde3GlMQgK4QegQIARAF&amp;uact=5&amp;oq=Sorbonne+University+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiGlNvcmJvbm5lIFVuaXZlcnNpdHkgZGV0YWlsMgYQABgIGB4yCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIFEAAY7wVI7RFQAFitC3AAeAGQAQCYAdwBoAHhBKoBBTAuMS4yuAEDyAEA-AEB-AECmAIDoAL_BMICDRAAGIAEGLEDGBQYhwLCAgsQABiABBiRAhiKBcICCxAuGIAEGMcBGK8BwgIFEAAYgATCAgoQABiABBhDGIoFwgIIEAAYgAQYsQPCAgQQIRgKmAMAkgcFMC4xLjKgB-YXsgcFMC4xLjK4B_8EwgcHMC4xLjEuMcgHEw&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfAh7SEmZuxG8XpLLnQRdsYMOjTwt_n7KJPc5au_Z5jm22ukoD2TS8-ulQMlkn2JB8EZZi5-W00sZpdkGiZXYC0HmJ-jvOtVnBTBV0snaT-O0pINAe6s7V8I5UwskLPJzQLfd68LA1XSWIBB5bTYysj50N3dVpRuCDRm0c2iVTkePHxRZXYgVgs_Ljwm_t0ZlDoERedmn6Xdo7o0xTRAVt1V32WLc3ac7WSIAVKQKH1bfG4ajfMfsTsKHKDNKgHt2GQ7MGWenKPSgDg5MIflaxJ01brH_Rmpz2E3R0HvpgUDoZfbWvEy-OfqIdAOAvWiLw&amp;csui=3\">Pierre and Marie Curie University</a>. It offers programs across a range of fields, including arts, humanities, social sciences, engineering, and medicine, and is a top-ranked institution with a strong international presence. While undergraduate programs are typically taught in French, many master's degrees are available in English</p>",
+  "image": "1758104940789-191569255.jpg",
+  "name": "Sorbonne University",
+  "location": "Paris",
+  "ranking": "QS Ranking 72",
+  "description": "Sorbonne University is a multidisciplinary public research university in Paris, France, formed in 2018 by the merger of Paris-Sorbonne University and Pierre and Marie Curie University. It offers programs across a range of fields, including arts, humanities, social sciences, engineering, and medicine, and is a top-ranked institution with a strong international presence. While undergraduate programs are typically taught in French, many master's degrees are available in English",
+  "highlights": [
+    "Very historic",
+    "strong reputation worldwide",
+    "especially for humanities & arts",
+    "large research output"
+  ],
+  "tuitionRange": "€2,770 - 3,500",
+  "popularPrograms": [
+    "Humanities",
+    "Social Sciences",
+    "Literature",
+    "Law",
+    "Medicine"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T10:29:00.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T10:29:00.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca8e8d4ff490389edf847d"
+  },
+  "meta_title": "Université Paris-Saclay ",
+  "meta_keywords": "Université Paris-Saclay ",
+  "meta_description": "\r\nUniversité Paris-Saclay is a major French public university, established in 2019, that is a leading center for research and education in science, engineering, health, life sciences, humanities, and social sciences. It was formed by the merger of several research institutions and universities, creating a large, interdisciplinary university with a strong focus on cutting-edge research and innovation. Located south of Paris, it is known for its excellence in scientific and technological fields, offering programs from undergraduate degrees to PhDs. ",
+  "category": "68c7e5b24ff490389edf80ac",
+  "page_url": "fra",
+  "page_image_tag": "fra",
+  "title": "Université Paris-Saclay ",
+  "page_content": "<p>Université Paris-Saclay is a major French public university, established in 2019, that is a leading center for research and education in science, engineering, health, life sciences, humanities, and social sciences. It was formed by the merger of several research institutions and universities, creating a large, interdisciplinary university with a strong focus on cutting-edge research and innovation. Located south of Paris, it is known for its excellence in scientific and technological fields, offering programs from undergraduate degrees to PhDs.&nbsp;</p>",
+  "image": "1758105229742-245173600.jpg",
+  "name": "Université Paris-Saclay ",
+  "location": "Paris region",
+  "ranking": "QS Ranking 70th ",
+  "description": "\r\nUniversité Paris-Saclay is a major French public university, established in 2019, that is a leading center for research and education in science, engineering, health, life sciences, humanities, and social sciences. It was formed by the merger of several research institutions and universities, creating a large, interdisciplinary university with a strong focus on cutting-edge research and innovation. Located south of Paris, it is known for its excellence in scientific and technological fields, offering programs from undergraduate degrees to PhDs. ",
+  "highlights": [
+    "One of France’s largest",
+    "research-oriented university clusters",
+    "strong in innovation"
+  ],
+  "tuitionRange": "€3,770/year",
+  "popularPrograms": [
+    "Physics",
+    "Computer Science",
+    "Life Sciences",
+    "Engineering"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T10:33:49.748Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T10:33:49.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca90194ff490389edf847f"
+  },
+  "meta_title": "École Normale Supérieure de Lyon (ENS Lyon)",
+  "meta_keywords": "École Normale Supérieure de Lyon (ENS Lyon)",
+  "meta_description": "École Normale Supérieure de Lyon (ENS Lyon) - TechportalThe École Normale Supérieure de Lyon (ENS de Lyon) is an elite French public institution that trains highly qualified professors, researchers, and civil servants in sciences and humanities, emphasizing academic excellence and interdisciplinary research.",
+  "category": "68c7e5b24ff490389edf80ac",
+  "page_url": "fra",
+  "page_image_tag": "fra",
+  "title": "École Normale Supérieure de Lyon (ENS Lyon)",
+  "page_content": "<p>École Normale Supérieure de Lyon (ENS Lyon) - TechportalThe École Normale Supérieure de Lyon (ENS de Lyon) is an elite French public institution that trains highly qualified professors, researchers, and civil servants in sciences and humanities, emphasizing academic excellence and interdisciplinary research.</p>",
+  "image": "1758105625520-452519683.jpg",
+  "name": "École Normale Supérieure de Lyon (ENS Lyon)",
+  "location": "Lyon",
+  "ranking": "QS Ranking 187th ",
+  "description": "École Normale Supérieure de Lyon (ENS Lyon) - TechportalThe École Normale Supérieure de Lyon (ENS de Lyon) is an elite French public institution that trains highly qualified professors, researchers, and civil servants in sciences and humanities, emphasizing academic excellence and interdisciplinary research.",
+  "highlights": [
+    "Prestigious “École Normale” tradition",
+    "high-level researchers among alumni",
+    "strong labs & research supervision"
+  ],
+  "tuitionRange": "€243 to €250 ",
+  "popularPrograms": [
+    "Natural Sciences",
+    "Social Sciences",
+    "Humanities"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T10:40:25.559Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T10:40:25.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68ca967c4ff490389edf8487"
+  },
+  "meta_title": "Sciences Po Paris",
+  "meta_keywords": "Sciences Po Paris",
+  "meta_description": "Sciences Po is a leading French university in the humanities and social sciences, known for its rigorous interdisciplinary curriculum, high international student body, and strong alumni network, including several world leaders. Founded in 1872, it offers undergraduate and master's programs through seven different schools, including its School of International Affairs (PSIA) and School of Management and Innovation, with campuses in seven French cities, including Paris. The university emphasizes a broad education in law, economics, history, political science, and sociology, combined with professional skills. ",
+  "category": "68c7e5b24ff490389edf80ac",
+  "page_url": "fra",
+  "page_image_tag": "Sciences",
+  "title": "Sciences Po Paris",
+  "page_content": "<p>Sciences Po is a leading French university in the humanities and social sciences, known for its rigorous interdisciplinary curriculum, high international student body, and strong alumni network, including several world leaders. Founded in 1872, it offers undergraduate and master's programs through seven different schools, including its <a href=\"https://www.google.com/search?q=School+of+International+Affairs&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifNnEsEyxb8vjV-_4XiyX9jUJHNKIw%3A1758106932012&amp;ei=NJXKaK9Fuoqd6w_iz57IAQ&amp;ved=2ahUKEwjbsJn_0t-PAxXA3jgGHW7wMMkQgK4QegQIARAC&amp;uact=5&amp;oq=Sciences+Po+Paris+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiGFNjaWVuY2VzIFBvIFBhcmlzIGRldGFpbDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iCBlAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIHmAMAiAYBkAYIkgcBMaAHALIHALgHAMIHAzItMcgHBQ&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfBhEdhRTMzE90FegKTsyFPLvWAZC87GmH3VhvVjwJtxVgZtESM69JBsqaixkMZjBfCqRisV6aBQwfpuy5LJB7EsQ3a4H82KRSZzWt6fE-aoFIfoDdes8xsYho88khSyL6axCQjIXM-iZ92lrmzpHU9hjA2oR_GtjqWwkkBr2Oxqipbm_kIb82g-haeYx67lAMlE0HKmvfp2uJoNgC7fBlAdpx-W1ffWOL4wj39-nvjInEisufaYjmMJs1lp0yMi8igI58tUPK69d1K9EOyrD_kJ&amp;csui=3\">School of International Affairs</a> (PSIA) and <a href=\"https://www.google.com/search?q=School+of+Management+and+Innovation&amp;sca_esv=8fb985a9e177f272&amp;biw=1420&amp;bih=768&amp;sxsrf=AE3TifNnEsEyxb8vjV-_4XiyX9jUJHNKIw%3A1758106932012&amp;ei=NJXKaK9Fuoqd6w_iz57IAQ&amp;ved=2ahUKEwjbsJn_0t-PAxXA3jgGHW7wMMkQgK4QegQIARAD&amp;uact=5&amp;oq=Sciences+Po+Paris+detail&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiGFNjaWVuY2VzIFBvIFBhcmlzIGRldGFpbDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0iCBlAAWABwAXgBkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIHmAMAiAYBkAYIkgcBMaAHALIHALgHAMIHAzItMcgHBQ&amp;sclient=gws-wiz-serp&amp;mstk=AUtExfBhEdhRTMzE90FegKTsyFPLvWAZC87GmH3VhvVjwJtxVgZtESM69JBsqaixkMZjBfCqRisV6aBQwfpuy5LJB7EsQ3a4H82KRSZzWt6fE-aoFIfoDdes8xsYho88khSyL6axCQjIXM-iZ92lrmzpHU9hjA2oR_GtjqWwkkBr2Oxqipbm_kIb82g-haeYx67lAMlE0HKmvfp2uJoNgC7fBlAdpx-W1ffWOL4wj39-nvjInEisufaYjmMJs1lp0yMi8igI58tUPK69d1K9EOyrD_kJ&amp;csui=3\">School of Management and Innovation</a>, with campuses in seven French cities, including Paris. The university emphasizes a broad education in law, economics, history, political science, and sociology, combined with professional skills.&nbsp;</p>",
+  "image": "1758107260057-149725970.jpg",
+  "name": "Sciences Po Paris",
+  "location": "Paris",
+  "ranking": "QS Ranking 367",
+  "description": "Sciences Po is a leading French university in the humanities and social sciences, known for its rigorous interdisciplinary curriculum, high international student body, and strong alumni network, including several world leaders. Founded in 1872, it offers undergraduate and master's programs through seven different schools, including its School of International Affairs (PSIA) and School of Management and Innovation, with campuses in seven French cities, including Paris. The university emphasizes a broad education in law, economics, history, political science, and sociology, combined with professional skills. ",
+  "highlights": [
+    "strong reputation in social sciences",
+    "many international students",
+    "excellent global networks",
+    "good exposure"
+  ],
+  "tuitionRange": "€10,000-€14,000/year",
+  "popularPrograms": [
+    "Political Science",
+    "International Relations",
+    "Social Sciences",
+    "Public Policy",
+    "Law"
+  ],
+  "createdAt": {
+    "$date": "2025-09-17T11:07:40.074Z"
+  },
+  "updatedAt": {
+    "$date": "2025-09-17T11:07:40.074Z"
+  },
+  "__v": 0
+}]

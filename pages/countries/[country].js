@@ -206,7 +206,7 @@ const UniversitiesDetails = ({ data, unidata }) => {
 																		className='badge bg-light text-dark small'>
 																		{highlight}
 																	</span>
-																)
+																),
 															)}
 														</div>
 													</div>
@@ -223,7 +223,7 @@ const UniversitiesDetails = ({ data, unidata }) => {
 																		className='badge bg-secondary small'>
 																		{program}
 																	</span>
-																)
+																),
 															)}
 														</div>
 													</div>
